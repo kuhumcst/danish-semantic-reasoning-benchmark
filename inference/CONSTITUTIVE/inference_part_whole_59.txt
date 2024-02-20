@@ -1,0 +1,59 @@
+en genstand kan have et kredsløb; en elcykel kan have et pedal	en nød kan ikke have en kuppel	false	part-whole
+et idiom kan have et bogstav; en effekt kan have en hældning	en trappe kan ikke have et trin	false	part-whole
+en villa kan have en væg; et bibliotek kan have et udlån	en vin kan ikke have chenin blanc	false	part-whole
+brasserie kan have en væg; en vogn kan have en motor	en tiltale kan ikke have en lyd	false	part-whole
+en genstand kan have en kappe; et tastatur kan have en tangent	et visum kan ikke have et indhold	false	part-whole
+scenarium kan have et indhold; en vogn kan have en finne	et gummitræ kan ikke have en stamme	false	part-whole
+en rem kan have et spænde; et transportmiddel kan have et forsæde	et spor kan ikke have en togskinne	false	part-whole
+en knold kan have en pære; en gåsehud kan have en celle	en hånd kan ikke have en lillefinger	false	part-whole
+et maskinrum kan have et gulv; et hoved kan have en kuppel	et sprog kan ikke have en indikativ	false	part-whole
+et ting kan have en højreside; en bygning kan have et sekretariat	en bygning kan ikke have en vagt	false	part-whole
+et syn kan have en mule; et opholdsrum kan have et loft	en bule kan ikke have et gulv	false	part-whole
+et hus kan have en korridor; et afskedsord kan have et bogstav	en hakke kan ikke have et hoved	false	part-whole
+en partikel kan have en lyd; et hoved kan have et ansigt	et levnedsmiddel kan ikke have en æblesnitte	false	part-whole
+et ekkokammer kan have et gulv; en måler kan have en nål	et pisk kan ikke have et hår	false	part-whole
+et bær kan have en kuppel; en bygning kan have en messe	en pille kan ikke have et pulver	false	part-whole
+en ergometercykel kan have et styr; en genstand kan have et netværk	et opholdsrum kan ikke have en pejs	false	part-whole
+en forordning kan have et indhold; en forhammer kan have et hoved	en lejlighed kan ikke have et køkken	false	part-whole
+en beholder kan have et låg; et lig kan have indvolde	en fisk kan ikke have et tun	false	part-whole
+et skib kan have skibsskrue; en opkrævning kan have en giro	en habitjakke kan ikke have et ærme	false	part-whole
+en ekspedition kan have et loft; et repertoire kan have en vare	en bule er et loft	false	part-whole
+et ting kan have en afsats; et tov kan have en sløjfe	et mejeri er en væg	false	part-whole
+en skov kan have et bryn; en garage kan have et tag	en kasse er en pande	false	part-whole
+en genstand kan have en grænseflade; en effekt kan have et system	en mursten er en tekst	false	part-whole
+en befæstning kan have en facilitet; en smøge kan have et fortov	et gear er en del	false	part-whole
+en færge kan have et bildæk; en baggård kan have et tag	en reol er en hylde	false	part-whole
+en pære kan have en stamme; nonsens kan have et bogstav	en bondegård er en stald	false	part-whole
+intetkøn kan have en lyd; en lejlighed kan have et køkken	et center er en butik	false	part-whole
+en maskine kan have et stempel; en klase kan have en blomst	en mikser er et piskeris	false	part-whole
+en spise kan have en julienne; en taske kan have en lomme	et værtshus er et gulv	false	part-whole
+et måleapparat kan have en nål; en boks kan have et tag	en iglo er en væg	false	part-whole
+en effekt kan have et netværk; en computer kan have et tastatur	en havn er en brygge	false	part-whole
+et leksikon kan have et blad; en bolig kan have et opholdsrum	et sprog er et kodeord	false	part-whole
+et krybdyr kan have et skæl; et gennemslag kan have en tekst	en gig er et lad	false	part-whole
+en dame kan have en kønslæbe; en gråspurv kan have en vinge	en effekt er et tværsnit	false	part-whole
+et skelet kan have et lårben; en tiltale kan have en lyd	et adverbium er et bogstav	false	part-whole
+en danskvand kan have en kulsyre; en lem kan have et skaft	et spir er en lanterne	false	part-whole
+en vej kan have en vejbane; en manga kan have en artikel	et ting er et lag	false	part-whole
+en mumie kan have et kød; et hoved kan have en hage	fartøj er en luv	false	part-whole
+en spise kan have en snitte; en tråd kan have et sting	et gab er en bisse	false	part-whole
+en beboelse kan have et tag; et essay kan have et indhold	fantasy kan have et indhold	true	part-whole
+et handelscenter kan have en butik; en effekt kan have en ring	en kloak kan have en foreteelse	true	part-whole
+en vin kan have tempranillo; en genstand kan have en afsats	en fugl kan have et næb	true	part-whole
+et slot kan have et gemak; et kamera kan have en sigte	et brød kan have et hvidløgsbrød	true	part-whole
+et lig kan have en knogle; et underliv kan have en skamlæbe	en rokke kan have en gælle	true	part-whole
+et menneske kan have en hud; et udsalg kan have et tag	et fængsel kan have et tag	true	part-whole
+en kupon kan have et indhold; en bygning kan have et depot	en inventarfortegnelse kan have et indhold	true	part-whole
+et fjæs kan have et katteøje; en motor kan have en kobling	en bager kan have et tag	true	part-whole
+et diasshow kan have en slide; en ur kan have et urværk	en effekt kan have et visitkort	true	part-whole
+et system kan have et program; blive kan have en lyd	et gryn kan have et korn	true	part-whole
+en vogn kan have en køler; en vingård kan have en stald	en dagpleje kan have en væg	true	part-whole
+fartøj kan have en bom; et pseudonym kan have en lyd	en laks kan have en gælle	true	part-whole
+et essay kan have et indhold; et skelet kan have en kaje	et ting kan have venstre	true	part-whole
+en salon kan have et gulv; en roman kan have en tekst	modus kan have en lyd	true	part-whole
+en vogn kan have en køler; en bygning kan have et atelier	en skikkelse kan have en knogle	true	part-whole
+et spyd kan have en spids; en kylling kan have et næb	en biks kan have en væg	true	part-whole
+en hule kan have et gulv; et magasin kan have en tekst	en rulle kan have en fyld	true	part-whole
+et studie kan have et loft; en gang kan have et fodtrin	et ting kan have en antydning	true	part-whole
+en bygning kan have en garderobe; et bibliotek kan have et loft	en boghandler kan have en væg	true	part-whole
+en børste kan have en celle; et ting kan have en skjold	et sprog kan have en frase	true	part-whole

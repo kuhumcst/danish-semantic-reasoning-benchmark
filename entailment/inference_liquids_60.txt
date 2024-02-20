@@ -1,0 +1,60 @@
+sprøjt er en væske man drikker eller spiser; rødvin er en væske man drikker eller spiser	sprinklervæske er ikke en væske man drikker eller spiser	true	comestible liquid
+øl er en væske man drikker eller spiser; café au lait er en væske man drikker eller spiser	olie er ikke en væske man drikker eller spiser	true	comestible liquid
+kaffe er en væske man drikker eller spiser; dåseøl er en væske man drikker eller spiser	urt er ikke en væske man drikker eller spiser	true	comestible liquid
+lage er en væske man drikker eller spiser; porter er en væske man drikker eller spiser	salmiakspiritus er ikke en væske man drikker eller spiser	true	comestible liquid
+syrah er en væske man drikker eller spiser; sherry er en væske man drikker eller spiser	soja er ikke en væske man drikker eller spiser	true	comestible liquid
+gin er en væske man drikker eller spiser; champagne er en væske man drikker eller spiser	lavement er ikke en væske man drikker eller spiser	true	comestible liquid
+kande er en væske man drikker eller spiser; hyldeblomstdrik er en væske man drikker eller spiser	bergamot er ikke en væske man drikker eller spiser	true	comestible liquid
+bryg er en væske man drikker eller spiser; bitter er en væske man drikker eller spiser	cabernet franc er ikke en væske man drikker eller spiser	true	comestible liquid
+pjask er en væske man drikker eller spiser; bællevin er en væske man drikker eller spiser	æter er ikke en væske man drikker eller spiser	true	comestible liquid
+fad er en væske man drikker eller spiser; kylling er en væske man drikker eller spiser	eukalyptus er ikke en væske man drikker eller spiser	true	comestible liquid
+chokolade er en væske man drikker eller spiser; mokka er en væske man drikker eller spiser	rettelak er ikke en væske man drikker eller spiser	true	comestible liquid
+slavevin er en væske man drikker eller spiser; chokolade er en væske man drikker eller spiser	dråbe er ikke en væske man drikker eller spiser	true	comestible liquid
+lagerøl er en væske man drikker eller spiser; bordeaux er en væske man drikker eller spiser	parfume er ikke en væske man drikker eller spiser	true	comestible liquid
+drik er en væske man drikker eller spiser; likør er en væske man drikker eller spiser	korrekturlak er ikke en væske man drikker eller spiser	true	comestible liquid
+æbleeddike er en væske man drikker eller spiser; champagne er en væske man drikker eller spiser	petroleum er ikke en væske man drikker eller spiser	true	comestible liquid
+sherry er en væske man drikker eller spiser; tequila er en væske man drikker eller spiser	indsprøjtning er ikke en væske man drikker eller spiser	true	comestible liquid
+te er en væske man drikker eller spiser; cider er en væske man drikker eller spiser	klysma er ikke en væske man drikker eller spiser	true	comestible liquid
+drink er en væske man drikker eller spiser; porter er en væske man drikker eller spiser	vand er ikke en væske man drikker eller spiser	true	comestible liquid
+øl er en væske man drikker eller spiser; skum er en væske man drikker eller spiser	chenin blanc er ikke en væske man drikker eller spiser	true	comestible liquid
+hvidtøl er en væske man drikker eller spiser; lagerøl er en væske man drikker eller spiser	serum er ikke en væske man drikker eller spiser	true	comestible liquid
+stout er en væske man drikker eller spiser; sød er en væske man drikker eller spiser	soja er en væske man drikker eller spiser	false	comestible liquid
+pilsnerøl er en væske man drikker eller spiser; kande er en væske man drikker eller spiser	vand er en væske man drikker eller spiser	false	comestible liquid
+fadøl er en væske man drikker eller spiser; rom er en væske man drikker eller spiser	bergamot er en væske man drikker eller spiser	false	comestible liquid
+mokka er en væske man drikker eller spiser; cappuccino er en væske man drikker eller spiser	blæk er en væske man drikker eller spiser	false	comestible liquid
+bryg er en væske man drikker eller spiser; chokolade er en væske man drikker eller spiser	urt er en væske man drikker eller spiser	false	comestible liquid
+hvidvin er en væske man drikker eller spiser; guldøl er en væske man drikker eller spiser	æter er en væske man drikker eller spiser	false	comestible liquid
+pjask er en væske man drikker eller spiser; yoghurt er en væske man drikker eller spiser	eukalyptus er en væske man drikker eller spiser	false	comestible liquid
+pilsner er en væske man drikker eller spiser; humle er en væske man drikker eller spiser	petroleum er en væske man drikker eller spiser	false	comestible liquid
+æbleeddike er en væske man drikker eller spiser; rom er en væske man drikker eller spiser	spray er en væske man drikker eller spiser	false	comestible liquid
+eddike er en væske man drikker eller spiser; jævning er en væske man drikker eller spiser	sauvignon blanc er en væske man drikker eller spiser	false	comestible liquid
+beaujolais er en væske man drikker eller spiser; nektar er en væske man drikker eller spiser	klyster er en væske man drikker eller spiser	false	comestible liquid
+likør er en væske man drikker eller spiser; sherry er en væske man drikker eller spiser	indsprøjtning er en væske man drikker eller spiser	false	comestible liquid
+pulverkaffe er en væske man drikker eller spiser; cocktail er en væske man drikker eller spiser	fond er en væske man drikker eller spiser	false	comestible liquid
+flaskeøl er en væske man drikker eller spiser; kaffefløde er en væske man drikker eller spiser	parfume er en væske man drikker eller spiser	false	comestible liquid
+let er en væske man drikker eller spiser; øl er en væske man drikker eller spiser	rettelak er en væske man drikker eller spiser	false	comestible liquid
+rødvin er en væske man drikker eller spiser; flaskeøl er en væske man drikker eller spiser	dråbe er en væske man drikker eller spiser	false	comestible liquid
+hvidtøl er en væske man drikker eller spiser; dressing er en væske man drikker eller spiser	chenin blanc er en væske man drikker eller spiser	false	comestible liquid
+hvidvin er en væske man drikker eller spiser; suppe er en væske man drikker eller spiser	klysma er en væske man drikker eller spiser	false	comestible liquid
+bordeaux er en væske man drikker eller spiser; frikadellevin er en væske man drikker eller spiser	sprinklervæske er en væske man drikker eller spiser	false	comestible liquid
+drik er en væske man drikker eller spiser; kaffe er en væske man drikker eller spiser	lavement er en væske man drikker eller spiser	false	comestible liquid
+punch er en væske man drikker eller spiser; bryg er en væske man drikker eller spiser	druemost er en væske man drikker eller spiser	true	comestible liquid
+kande er en væske man drikker eller spiser; skum er en væske man drikker eller spiser	cola er en væske man drikker eller spiser	true	comestible liquid
+chokolade er en væske man drikker eller spiser; fadøl er en væske man drikker eller spiser	dåseøl er en væske man drikker eller spiser	true	comestible liquid
+bordeaux er en væske man drikker eller spiser; eddike er en væske man drikker eller spiser	kaffefløde er en væske man drikker eller spiser	true	comestible liquid
+cognac er en væske man drikker eller spiser; dåseøl er en væske man drikker eller spiser	bællevin er en væske man drikker eller spiser	true	comestible liquid
+pilsnerøl er en væske man drikker eller spiser; lage er en væske man drikker eller spiser	brændevin er en væske man drikker eller spiser	true	comestible liquid
+champagne er en væske man drikker eller spiser; hyldebærsuppe er en væske man drikker eller spiser	squash er en væske man drikker eller spiser	true	comestible liquid
+soda er en væske man drikker eller spiser; likør er en væske man drikker eller spiser	hyldeblomstdrik er en væske man drikker eller spiser	true	comestible liquid
+danskvand er en væske man drikker eller spiser; drikkevare er en væske man drikker eller spiser	bordeaux er en væske man drikker eller spiser	true	comestible liquid
+hvidvin er en væske man drikker eller spiser; fadøl er en væske man drikker eller spiser	suppe er en væske man drikker eller spiser	true	comestible liquid
+gin er en væske man drikker eller spiser; hvidvin er en væske man drikker eller spiser	pilsner er en væske man drikker eller spiser	true	comestible liquid
+rom er en væske man drikker eller spiser; humle er en væske man drikker eller spiser	lager er en væske man drikker eller spiser	true	comestible liquid
+snaps er en væske man drikker eller spiser; danskvand er en væske man drikker eller spiser	pjask er en væske man drikker eller spiser	true	comestible liquid
+snaps er en væske man drikker eller spiser; tonic er en væske man drikker eller spiser	te er en væske man drikker eller spiser	true	comestible liquid
+drikkevare er en væske man drikker eller spiser; likør er en væske man drikker eller spiser	eddike er en væske man drikker eller spiser	true	comestible liquid
+brændevin er en væske man drikker eller spiser; ærtesuppe er en væske man drikker eller spiser	lage er en væske man drikker eller spiser	true	comestible liquid
+skænk er en væske man drikker eller spiser; hvidtøl er en væske man drikker eller spiser	tonicvand er en væske man drikker eller spiser	true	comestible liquid
+jævning er en væske man drikker eller spiser; juleøl er en væske man drikker eller spiser	lime er en væske man drikker eller spiser	true	comestible liquid
+beaujolais er en væske man drikker eller spiser; skum er en væske man drikker eller spiser	gin er en væske man drikker eller spiser	true	comestible liquid
+hyldeblomstdrik er en væske man drikker eller spiser; flaskeøl er en væske man drikker eller spiser	snaps er en væske man drikker eller spiser	true	comestible liquid

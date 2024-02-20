@@ -1,0 +1,40 @@
+man kan tage et klæde på for at holde sig varm; man kan tage en kittel på for at holde sig varm	man kan tage en tatovering på for at holde sig varm	false	warm vs. decorate
+man kan tage et jakkesæt på for at holde sig varm; man kan tage basisgarderobe på for at holde sig varm	man kan tage en klunke på for at holde sig varm	false	warm vs. decorate
+man kan tage en kittel på for at holde sig varm; man kan tage en uniform på for at holde sig varm	man kan tage en kolos på for at holde sig varm	false	warm vs. decorate
+man kan tage sportstøj på for at holde sig varm; man kan tage et sæt på for at holde sig varm	man kan tage en manchet på for at holde sig varm	false	warm vs. decorate
+man kan tage et skrud på for at holde sig varm; man kan tage en strikvare på for at holde sig varm	man kan tage en stage på for at holde sig varm	false	warm vs. decorate
+man kan tage en dragt på for at holde sig varm; man kan tage en strikvare på for at holde sig varm	man kan tage en kost på for at holde sig varm	false	warm vs. decorate
+man kan tage en beklædning på for at holde sig varm; man kan tage en kittel på for at holde sig varm	man kan tage en torso på for at holde sig varm	false	warm vs. decorate
+man kan tage en vask på for at holde sig varm; man kan tage et ornat på for at holde sig varm	man kan tage en sløjfe på for at holde sig varm	false	warm vs. decorate
+man kan tage ventetøj på for at holde sig varm; man kan tage en dragt på for at holde sig varm	man kan tage en gesvejsning på for at holde sig varm	false	warm vs. decorate
+man kan tage ventetøj på for at holde sig varm; man kan tage et kostume på for at holde sig varm	man kan tage en poche på for at holde sig varm	false	warm vs. decorate
+man kan tage en leopard på for at holde sig varm; man kan tage en kittel på for at holde sig varm	man kan tage et nips på for at holde sig varm	false	warm vs. decorate
+man kan tage et kluns på for at holde sig varm; man kan tage en habit på for at holde sig varm	man kan tage en kurv på for at holde sig varm	false	warm vs. decorate
+man kan tage en vask på for at holde sig varm; man kan tage en complet på for at holde sig varm	man kan tage en ring på for at holde sig varm	false	warm vs. decorate
+man kan tage overtøj på for at holde sig varm; man kan tage basisgarderobe på for at holde sig varm	man kan tage en blomsterdekoration på for at holde sig varm	false	warm vs. decorate
+man kan tage skitøj på for at holde sig varm; man kan tage en strikvare på for at holde sig varm	man kan tage et vedhæng på for at holde sig varm	false	warm vs. decorate
+man kan tage skitøj på for at holde sig varm; man kan tage en uniform på for at holde sig varm	man kan tage en lænke på for at holde sig varm	false	warm vs. decorate
+man kan tage et ornat på for at holde sig varm; man kan tage en forklædning på for at holde sig varm	man kan tage en krans på for at holde sig varm	false	warm vs. decorate
+man kan tage en pyjamas på for at holde sig varm; man kan tage et dress på for at holde sig varm	man kan tage en buste på for at holde sig varm	false	warm vs. decorate
+man kan tage en klædedragt på for at holde sig varm; man kan tage en leopard på for at holde sig varm	man kan tage et kors på for at holde sig varm	false	warm vs. decorate
+man kan tage et klæde på for at holde sig varm; man kan tage en vask på for at holde sig varm	man kan tage et ornament på for at holde sig varm	false	warm vs. decorate
+man kan tage en korsage på for at holde sig varm; man kan tage en beklædning på for at holde sig varm	man kan tage et dress på for at holde sig varm	true	warm vs. decorate
+man kan tage overtøj på for at holde sig varm; man kan tage skitøj på for at holde sig varm	man kan tage en pyjamas på for at holde sig varm	true	warm vs. decorate
+man kan tage mærketøj på for at holde sig varm; man kan tage undertøj på for at holde sig varm	man kan tage en strik på for at holde sig varm	true	warm vs. decorate
+man kan tage arbejdstøj på for at holde sig varm; man kan tage en garderobe på for at holde sig varm	man kan tage et kostume på for at holde sig varm	true	warm vs. decorate
+man kan tage en pingvin på for at holde sig varm; man kan tage en pyjamas på for at holde sig varm	man kan tage en klædedragt på for at holde sig varm	true	warm vs. decorate
+man kan tage en klædedragt på for at holde sig varm; man kan tage en leopard på for at holde sig varm	man kan tage en kittel på for at holde sig varm	true	warm vs. decorate
+man kan tage vasketøj på for at holde sig varm; man kan tage en pingvin på for at holde sig varm	man kan tage overtøj på for at holde sig varm	true	warm vs. decorate
+man kan tage et jakkesæt på for at holde sig varm; man kan tage et dress på for at holde sig varm	man kan tage mærketøj på for at holde sig varm	true	warm vs. decorate
+man kan tage et jakkesæt på for at holde sig varm; man kan tage en korsage på for at holde sig varm	man kan tage en pingvin på for at holde sig varm	true	warm vs. decorate
+man kan tage en pingvin på for at holde sig varm; man kan tage en kittel på for at holde sig varm	man kan tage et kluns på for at holde sig varm	true	warm vs. decorate
+man kan tage en kjole på for at holde sig varm; man kan tage en hvidvask på for at holde sig varm	man kan tage ventetøj på for at holde sig varm	true	warm vs. decorate
+man kan tage en strik på for at holde sig varm; man kan tage en korsage på for at holde sig varm	man kan tage et jakkesæt på for at holde sig varm	true	warm vs. decorate
+man kan tage en pyjamas på for at holde sig varm; man kan tage en beklædning på for at holde sig varm	man kan tage vasketøj på for at holde sig varm	true	warm vs. decorate
+man kan tage skitøj på for at holde sig varm; man kan tage undertøj på for at holde sig varm	man kan tage arbejdstøj på for at holde sig varm	true	warm vs. decorate
+man kan tage en habit på for at holde sig varm; man kan tage en påklædning på for at holde sig varm	man kan tage skitøj på for at holde sig varm	true	warm vs. decorate
+man kan tage en vask på for at holde sig varm; man kan tage en hvidvask på for at holde sig varm	man kan tage et sæt på for at holde sig varm	true	warm vs. decorate
+man kan tage en pyjamas på for at holde sig varm; man kan tage en påklædning på for at holde sig varm	man kan tage en leopard på for at holde sig varm	true	warm vs. decorate
+man kan tage en klædedragt på for at holde sig varm; man kan tage et jakkesæt på for at holde sig varm	man kan tage en uniform på for at holde sig varm	true	warm vs. decorate
+man kan tage en complet på for at holde sig varm; man kan tage skitøj på for at holde sig varm	man kan tage tøj på for at holde sig varm	true	warm vs. decorate
+man kan tage en dyne på for at holde sig varm; man kan tage en habit på for at holde sig varm	man kan tage undertøj på for at holde sig varm	true	warm vs. decorate

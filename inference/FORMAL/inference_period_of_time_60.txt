@@ -1,0 +1,60 @@
+en skoletid er et tidsrum; en måned er et tidsrum	en fyraften er ikke et tidsrum	true	period of time
+en fritid er et tidsrum; karensperiode er et tidsrum	et nytår er ikke et tidsrum	true	period of time
+en fritid er et tidsrum; en halvleg er et tidsrum	en eftermiddag er ikke et tidsrum	true	period of time
+en halvleg er et tidsrum; et sekund er et tidsrum	en middag er ikke et tidsrum	true	period of time
+en sommer er et tidsrum; karensperiode er et tidsrum	et slag er ikke et tidsrum	true	period of time
+en aften er et tidsrum; en afslutning er et tidsrum	en mandag er ikke et tidsrum	true	period of time
+en aften er et tidsrum; et sekund er et tidsrum	en tur er ikke et tidsrum	true	period of time
+en æra er et tidsrum; en halvleg er et tidsrum	en tid er ikke et tidsrum	true	period of time
+karensperiode er et tidsrum; en rest er et tidsrum	en lukketid er ikke et tidsrum	true	period of time
+en afslutning er et tidsrum; en æra er et tidsrum	et vendepunkt er ikke et tidsrum	true	period of time
+en aften er et tidsrum; en dag er et tidsrum	en formiddag er ikke et tidsrum	true	period of time
+en måned er et tidsrum; et kvarter er et tidsrum	et tiår er ikke et tidsrum	true	period of time
+en måned er et tidsrum; en fritid er et tidsrum	et århundredskifte er ikke et tidsrum	true	period of time
+en rest er et tidsrum; en dag er et tidsrum	et klokkeslæt er ikke et tidsrum	true	period of time
+en karenstid er et tidsrum; en æra er et tidsrum	en spisetid er ikke et tidsrum	true	period of time
+en fritid er et tidsrum; en afslutning er et tidsrum	en ulvetime er ikke et tidsrum	true	period of time
+en æra er et tidsrum; en halvleg er et tidsrum	et gry er ikke et tidsrum	true	period of time
+en skoletid er et tidsrum; en fritid er et tidsrum	et mødetidspunkt er ikke et tidsrum	true	period of time
+et minut er et tidsrum; en slutspurt er et tidsrum	en højde er ikke et tidsrum	true	period of time
+en halvleg er et tidsrum; en morgen er et tidsrum	en indgang er ikke et tidsrum	true	period of time
+en æra er et tidsrum; en rest er et tidsrum	en lejlighed er et tidsrum	false	period of time
+en skoletid er et tidsrum; et sekund er et tidsrum	et mødetidspunkt er et tidsrum	false	period of time
+en fritid er et tidsrum; et minut er et tidsrum	en fyraften er et tidsrum	false	period of time
+en sommer er et tidsrum; en dag er et tidsrum	midnat er et tidsrum	false	period of time
+en slutning er et tidsrum; en morgen er et tidsrum	en tid er et tidsrum	false	period of time
+et kvarter er et tidsrum; et sekund er et tidsrum	et århundredskifte er et tidsrum	false	period of time
+en rest er et tidsrum; en æra er et tidsrum	et sted er et tidsrum	false	period of time
+en fritid er et tidsrum; en dag er et tidsrum	en ulvetime er et tidsrum	false	period of time
+en skoledag er et tidsrum; en måned er et tidsrum	en middag er et tidsrum	false	period of time
+en skoletid er et tidsrum; en æra er et tidsrum	en formiddag er et tidsrum	false	period of time
+en skoledag er et tidsrum; en måned er et tidsrum	aftenstid er et tidsrum	false	period of time
+en rest er et tidsrum; en dag er et tidsrum	en højde er et tidsrum	false	period of time
+en måned er et tidsrum; en skoledag er et tidsrum	en tur er et tidsrum	false	period of time
+en skoletid er et tidsrum; en fritid er et tidsrum	et klokkeslæt er et tidsrum	false	period of time
+en afslutning er et tidsrum; en dag er et tidsrum	en mandag er et tidsrum	false	period of time
+en morgen er et tidsrum; et minut er et tidsrum	en krise er et tidsrum	false	period of time
+en afslutning er et tidsrum; en dag er et tidsrum	et højdepunkt er et tidsrum	false	period of time
+en morgen er et tidsrum; et sekund er et tidsrum	en eftermiddag er et tidsrum	false	period of time
+en slutning er et tidsrum; en slutspurt er et tidsrum	et tiår er et tidsrum	false	period of time
+en sommer er et tidsrum; en afslutning er et tidsrum	et slag er et tidsrum	false	period of time
+en fritid er et tidsrum; en karenstid er et tidsrum	en afslutning er et tidsrum	true	period of time
+et sekund er et tidsrum; en aften er et tidsrum	en start er et tidsrum	true	period of time
+en sommer er et tidsrum; et kvarter er et tidsrum	en æra er et tidsrum	true	period of time
+en dag er et tidsrum; en rest er et tidsrum	en halvleg er et tidsrum	true	period of time
+en skoletid er et tidsrum; en æra er et tidsrum	en slutning er et tidsrum	true	period of time
+en halvleg er et tidsrum; en æra er et tidsrum	en morgen er et tidsrum	true	period of time
+en æra er et tidsrum; et minut er et tidsrum	en dag er et tidsrum	true	period of time
+en rest er et tidsrum; en karenstid er et tidsrum	en skoledag er et tidsrum	true	period of time
+et minut er et tidsrum; en rest er et tidsrum	en måned er et tidsrum	true	period of time
+en fritid er et tidsrum; en karenstid er et tidsrum	en sommer er et tidsrum	true	period of time
+en morgen er et tidsrum; karensperiode er et tidsrum	et minut er et tidsrum	true	period of time
+en halvleg er et tidsrum; en slutspurt er et tidsrum	karensperiode er et tidsrum	true	period of time
+et minut er et tidsrum; en rest er et tidsrum	et sekund er et tidsrum	true	period of time
+en skoledag er et tidsrum; en afslutning er et tidsrum	en fritid er et tidsrum	true	period of time
+en æra er et tidsrum; en skoledag er et tidsrum	en skoletid er et tidsrum	true	period of time
+en æra er et tidsrum; en karenstid er et tidsrum	en slutspurt er et tidsrum	true	period of time
+en slutning er et tidsrum; en skoletid er et tidsrum	et kvarter er et tidsrum	true	period of time
+en halvleg er et tidsrum; et sekund er et tidsrum	en karenstid er et tidsrum	true	period of time
+en dag er et tidsrum; en karenstid er et tidsrum	en aften er et tidsrum	true	period of time
+en skoletid er et tidsrum; en slutspurt er et tidsrum	en rest er et tidsrum	true	period of time
