@@ -42,6 +42,10 @@ candidates	label	core_group_placement	outlier_placement
 
 
 ## License
-Credit: [Society for Danish Language and Literature](https://dsl.dk/)
-Contact: Nathalie Hau Sørensen (nats @ dsl.dk)
 [CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Credit: [Society for Danish Language and Literature](https://dsl.dk/)
+
+Contact: Nathalie Hau Sørensen (nats @ dsl.dk)
+
+
