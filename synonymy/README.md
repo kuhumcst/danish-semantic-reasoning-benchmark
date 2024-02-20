@@ -31,3 +31,6 @@ target	candidates	label	comment	section
 There is currently 288 instances in the first version.
 
 # License
+
+[CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
