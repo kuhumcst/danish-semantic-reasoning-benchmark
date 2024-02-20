@@ -1,0 +1,65 @@
+a	b	c	d
+Nedsat hørelse hos småbørn kan bevirke at sprogudviklingen går i stå.	Nedsat hørelse har ingen betydning for små børns sprogudvikling.	false	Causation
+Nedsat hørelse hos småbørn kan bevirke at sprogudviklingen går i stå.	Småbørn med nedsat hørelse har ofte en langsommere sprogudvikling.	true	Causation
+Nedsat hørelse hos småbørn kan bevirke at sprogudviklingen går i stå.	Nedsat hørelse har stor betydning for små børns sprogudvikling.	true	Causation
+Kartoffelkuren bevirkede en kraftig stigning i arbejdsløsheden.	Arbejdsløsheden blev større efter indførelsen af Kartoffelkuren.	true	Causation
+Kartoffelkuren bevirkede en kraftig stigning i arbejdsløsheden.	Arbejdsløsheden faldt efter indførelsen af Kartoffelkuren.	false	Causation
+Kartoffelkuren bevirkede en kraftig stigning i arbejdsløsheden.	Arbejdsløsheden ændrede sig ikke efter indførelsen af Kartoffelkuren.	false	Causation
+Kartoffelkuren bevirkede en kraftig stigning i arbejdsløsheden.	Kartoffelkuren påvirkede ikke arbejdsløsheden.	false	Causation
+Loven medførte at næsten alle dødsdømte blev benådet. 	Efter lovens indførelse blev færre dødsdømte henrettet.	true	Causation
+Loven medførte at næsten alle dødsdømte blev benådet. 	Efter lovens indførelse blev de fleste dødsdømte henrettet.	false	Causation
+Loven medførte at næsten alle dødsdømte blev benådet. 	Efter lovens indførelse blev mange dødsdømte benådet. 	true	Causation
+Eksplosionen medførte svære skader på bygningen.	Efter eksplosionen havde bygningen faet mange skader. 	true	Causation
+Eksplosionen medførte svære skader på bygningen.	Efter eksplosionen var bygningen ubeskadiget. 	false	Causation
+Eksplosionen medførte svære skader på bygningen.	Bygningen fik ingen skader af eksplosionen.	false	Causation
+"Værket ""Hesteofringen"" indebar bl.a. slagtning af en hest. "	"En hest blev slagtet i værket ""Hesteofringen""."	true	Causation
+"Værket ""Hesteofringen"" indebar bl.a. slagtning af en hest. "	"Hesten blev ikke slagtet i værket ""Hesteofringen""."	false	Causation
+"Værket ""Hesteofringen"" indebar bl.a. slagtning af en hest. "	"Hesten i værket ""Hesteofringen"" levede videre."	false	Causation
+Olieprisernes himmelflugt i 1970erne gav industrien stødet til at spare på råenergien. Da oliepriserne steg, begyndte industrien at spare på råenergien.	true	Causation
+Olieprisernes himmelflugt i 1970erne gav industrien stødet til at spare på råenergien.	Selvom oliepriserne steg, begyndte industrien ikke at spare på råenergien.	false	Causation
+Olieprisernes himmelflugt i 1970erne gav industrien stødet til at spare på råenergien.	Industrien sparede ikke på råenergien efter at oliepriserne steg i 1970erne.	false	Causation
+Hendes tilståelse i grundlovsforhøret ligger til grund for den behandlingsdom, retten nu har afsagt.	Hendes behandlingsdom er baseret på hendes tidligere tilståelse.	true	Causation
+Hendes tilståelse i grundlovsforhøret ligger til grund for den behandlingsdom, retten nu har afsagt.	Hendes behandlingsdom er ikke baseret på hendes tidligere tilståelse.	false	Causation
+Hendes tilståelse i grundlovsforhøret ligger til grund for den behandlingsdom, retten nu har afsagt.	Hun fik en behandlingsdom uden at have tilstået.	false	Causation
+Hashrygningen forværrede hans angstneurose.	Han fik det bedre at at ryge hash.	false	Cause_benefit_or_detriment
+Hashrygningen forværrede hans angstneurose.	Han blev mere syg at at ryge hash.	true	Cause_benefit_or_detriment
+Hashrygningen forværrede hans angstneurose.	Hans angstneurose blev værre at at ryge hash.	true	Cause_benefit_or_detriment
+Den positive omtale af FCK har givet bagslag for Brøndby.	Det var godt for Brøndby at FCK omtaltes positivt.	false	Cause_benefit_or_detriment
+Den positive omtale af FCK har givet bagslag for Brøndby.	Det var ikke godt for Brøndby at FCK omtaltes positivt.	true	Cause_benefit_or_detriment
+Den positive omtale af FCK har givet bagslag for Brøndby.	Brøndby har fået gavn af FCK's positive omtale.	false	Cause_benefit_or_detriment
+Bogen forandrede hans tilværelse fra fattig til rig. 	Han blev rigere efter at bogen var udgivet.	true	Cause_change
+Bogen forandrede hans tilværelse fra fattig til rig. 	Han var lige fattig før og efter at bogen blev udgivet.	false	Cause_change
+Bogen forandrede hans tilværelse fra fattig til rig. 	Han blev fattigere efter at bogen var udgivet.	false	Cause_change
+De internationale kirkelige organisationer måtte nytænke deres rolle i verden.	De internationale kirkelige organisationer kunne fortsætte på uændret vis.	false	Cause_change
+De internationale kirkelige organisationer måtte nytænke deres rolle i verden.	De internationale kirkelige organisationers rolle behøvede ikke at ændre sig.	false	Cause_change
+De internationale kirkelige organisationer måtte nytænke deres rolle i verden.	De internationale kirkelige organisationer måtte overveje deres rolle. 	true	Cause_change
+Flertallet på Christiansborg vil ikke omforme skattelovgivningen men bare fjerne de værste problemer.	Flertallet på Christiansborg vil gerne lave skattelovgivningen helt om.	false	Cause_change
+Flertallet på Christiansborg vil ikke omforme skattelovgivningen men bare fjerne de værste problemer.	Flertallet på Christiansborg vil ikke lave skattelovgivningen helt om.	true	Cause_change
+Flertallet på Christiansborg vil ikke omforme skattelovgivningen men bare fjerne de værste problemer.	Flertallet på Christiansborg ændre de værste problemer i skattelovgivningen.	true	Cause_change
+Målet for firmaet er at fordoble både medarbejderantallet og omsætningen inden 1992.	Firmaets mål er at få to gange så mange medarbejdere inden 1992.	true	Cause_change_of_position_on_a_scale
+Målet for firmaet er at fordoble både medarbejderantallet og omsætningen inden 1992.	Firmaets mål er at skære ned på antallet af medarbejdere.	false	Cause_change_of_position_on_a_scale
+Målet for firmaet er at fordoble både medarbejderantallet og omsætningen inden 1992.	Firmaets mål er at få ti gange så mange medarbejdere inden 1992.	false	Cause_change_of_position_on_a_scale
+Målet for firmaet er at femdoble både medarbejderantallet og omsætningen inden 1992.	Firmaets mål er at få fem gange så mange medarbejdere inden 1992.	true	Cause_change_of_position_on_a_scale
+Målet for firmaet er at femdoble både medarbejderantallet og omsætningen inden 1992.	Firmaets mål er at få ti gange så mange medarbejdere inden 1992.	false	Cause_change_of_position_on_a_scale
+Målet for firmaet er at fordoble både medarbejderantallet og omsætningen inden 1992.	Firmaets mål er at skære ned på antallet af medarbejdere.	false	Cause_change_of_position_on_a_scale
+Biermann provokerede myndighederne med sine protestsange.	Myndighederne var ligeglade med Biermanns protestsange.	false	Cause_emotion
+Biermann provokerede myndighederne med sine protestsange.	Myndighederne var ikke tilfredse med Biermanns protestsange.	true	Cause_emotion
+Biermann provokerede myndighederne med sine protestsange.	Myndighederne var meget glade for Biermanns protestsange.	false	Cause_emotion
+Statsministerens taler fornærmede kineserne.	Kineserne var ligeglade med statsministerens tale.	false	Cause_emotion
+Statsministerens taler fornærmede kineserne.	Kineserne utilfredse med statsministerens tale.	true	Cause_emotion
+Statsministerens taler fornærmede kineserne.	Kineserne var sure over statsministerens tale.	true	Cause_emotion
+Manden indrømmede at have tæsket konen flere gange.	Manden gjorde konen fortræd.	true	Cause_harm
+Manden indrømmede at have tæsket konen flere gange.	Manden gjorde ikke konen fortræd.	false	Cause_harm
+Manden indrømmede at have tæsket konen flere gange.	Manden slog sin kone.	true	Cause_harm
+Per nikkede Ole en skalle uden for diskoteket.	Per slog Ole.	true	Cause_harm
+Per nikkede Ole en skalle uden for diskoteket.	Per slog ikke Ole.	false	Cause_harm
+Per nikkede Ole en skalle uden for diskoteket.	Per tævede Olse.	true	Cause_harm
+Kaffen skoldede Peters højre arm.	Peters arm tog ikke skade af kaffen.	false	Cause_harm
+Kaffen skoldede Peters højre arm.	Peters arm blev forbrændt af kaffen	true	Cause_harm
+Kaffen skoldede Peters højre arm.	Peters arm blev ikke forbrændt af kaffen	false	Cause_harm
+Soldaten hejste flaget. 	Nu er flaget oppe.	true	Cause_motion
+Soldaten hejste flaget. 	Nu er flaget nede.	false	Cause_motion
+Soldaten hejste flaget. 	Nu er flaget er på jorden.	true	Cause_motion
+Peter kastede bolden til Hanne.	Hanne har nu bolden.	true	Cause_motion
+Peter kastede bolden til Hanne.	Hanne har nu ikke bolden.	false	Cause_motion
+Peter kastede bolden til Hanne.	Peter har stadig bolden.	false	Cause_motion

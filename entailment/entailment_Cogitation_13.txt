@@ -1,0 +1,14 @@
+a	b	c	d
+Artikelserien analyserede lønudviklingen gennem de sidste 10 år.	Lønudviklingen i de sidste 10 år blev ikke undersøgt i artikelserien.	false	Cogitation
+Artikelserien analyserede lønudviklingen gennem de sidste 10 år.	I artikelserien blev lønudviklingen i de sidste 10 år undersøgt.	true	Cogitation
+Artikelserien analyserede lønudviklingen gennem de sidste 10 år.	I artikelserien skrev de ikke om lønudvikling. 	false	Cogitation
+Per overvejede beslutningen nøje	Peter handlede impulsivt da han tog beslutningen.	false	Cogitation
+Per overvejede beslutningen nøje	Peter tænkte ikke videre over det før han tog beslutningen. 	false	Cogitation
+Per overvejede beslutningen nøje	Peter tænkte grundigt over det før han tog beslutningen.	true	Cogitation
+Peter tænkte længe over dilemmaet.	Peter overvejede dilemmaet nøje.	true	Cogitation
+Peter tænkte længe over dilemmaet.	Peter skænkede ikke dilemmaet en tanke.	false	Cogitation
+Peter tænkte længe over dilemmaet.	Peter tænkte ikke over dilemmaet.	false	Cogitation
+Peter tænkte på Hanne hele tiden.	Hanne var konstant i Peters tanker.	true	Cogitation
+Peter tænkte på Hanne hele tiden.	Hanne var aldrig i Peters tanker.	false	Cogitation
+Peter tænkte på Hanne hele tiden.	Peter tænkte sjældent på Hanne.	false	Cogitation
+Peter tænkte på Hanne hele tiden.	Peter tænkte på Hanne uafbrudt.	true	Cogitation

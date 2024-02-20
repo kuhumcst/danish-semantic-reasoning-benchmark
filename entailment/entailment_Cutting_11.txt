@@ -1,0 +1,12 @@
+a	b	c	d
+Jeg skærer brødet med en kniv.	Når dette er gjort, er brødet ikke længere helt. 	true	Cutting
+Jeg skærer brødet med en kniv.	Når dette er gjort, er brødet stadig helt. 	false	Cutting
+Jeg skærer brødet med en kniv.	Når dette er gjort, er brødet helt. 	false	Cutting
+Pia klipper al håret af. 	Pia har nu langt hår.	false	Cutting
+Pia klipper al håret af. 	Pia har nu meget kort hår.	true	Cutting
+Frisøren klipper Pias hår.	Pia er nyklippet	true	Cutting
+Frisøren klipper Pias hår.	Pias hår trænger til klipning.	false	Cutting
+Pia klipper rebet over. 	Nu er rebet helt.	false	Cutting
+Pia klipper rebet over. 	Nu er rebet i to dele. 	true	Cutting
+Pia klipper rebet over. 	Pia har nu mange reb.	neutral	Cutting
+Pia klipper rebet over. 	Pia har nu to kortere reb.	true	Cutting

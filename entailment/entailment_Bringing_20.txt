@@ -1,0 +1,21 @@
+a	b	c	d
+Peter henter sin søn i børnehaven.	Peters søn er nu sammen med Peter.	true	Bringing
+Peter henter sin søn i børnehaven.	Peter søn er nu i børnehaven.	false	Bringing
+Peter henter sin søn i børnehaven.	Peters søn er nu hjemme. 	neutral	Bringing
+Peter henter sin søn hjem fra børnehaven.	Peters søn er nu hjemme. 	true	Bringing
+Peter henter sin søn hjem fra børnehaven.	Peter søn er nu i børnehaven.	false	Bringing
+Transporten til København foregik i bil. 	De kom i bil til København.	true	Bringing
+Transporten til København foregik i bil. 	Varerne kom til København med el-cykel.	false	Bringing
+Transporten til København foregik i bil. 	De cyklede til København.	false	Bringing
+Grise dør ofte under transport til udlandet.	Grisene er på vej til udlandet.	true	Bringing
+Grise dør ofte under transport til udlandet.	Grisene er på vej til slagtning i Danmark.	neutral	Bringing
+Grise dør ofte under transport til udlandet.	Grisene er ikke på vej til udlandet.	false	Bringing
+Transporten af fisk til markedet blev lammet af strejken.	Fiskene kom frem til markedet.	false	Bringing
+Transporten af fisk til markedet blev lammet af strejken.	Fiskene kom ikke frem til markedet pga. strejke.	true	Bringing
+Transporten af fisk til markedet blev lammet af strejken.	Fiskene kom ikke frem til markedet.	true	Bringing
+Peter bringer mad ud til Pia.	Pia har nu mad.	true	Bringing
+Peter bringer mad ud til Pia.	Peter har nu mad.	false	Bringing
+Peter bringer mad ud til Pia.	Pia har ikke noget mad.	false	Bringing
+Peter bringer Pia gule blomster. 	Pia har nu fået gule blomster.	true	Bringing
+Peter bringer Pia gule blomster. 	Peter har de gule blomster.	false	Bringing
+Peter bringer Pia gule blomster. 	Pia har ikke nogen gule blomster.	false	Bringing

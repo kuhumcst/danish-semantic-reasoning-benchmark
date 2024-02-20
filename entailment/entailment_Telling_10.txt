@@ -1,0 +1,11 @@
+a	b	c	d
+Per fortalte mig hemmeligheden. 	Jeg kender ikke hemmeligheden.	false	Telling
+Per fortalte mig hemmeligheden. 	Nu kender jeg hemmeligheden	true	Telling
+Per fortalte mig hemmeligheden. 	Jeg hørte hemmeligheden fra Peter.	true	Telling
+Per sammenfattede diskussionen for forsamlingen.	Forsamlingen vidste hvad der var blevet diskuteret.	true	Summarizing
+Per sammenfattede diskussionen for forsamlingen.	Forsamlingen vidste ikke hvad diskussionen havde handlet om.	false	Summarizing
+Per sammenfattede diskussionen for forsamlingen.	Per fortalte ikke forsamlingen om diskussionen.	false	Summarizing
+Peter pralede af at have gennemført maratonløbet.	Peter påstod at han havde gennemført maratonløbet.	true	Bragging
+Peter pralede af at have gennemført maratonløbet.	Peter fortalte ikke at han havde gennemført maratonløbet.	false	Bragging
+Peter pralede af at have gennemført maratonløbet.	Peter fortalte at han havde gennemført maratonløbet. 	true	Bragging
+Peter pralede af at have gennemført maratonløbet.	Peter var stolt af at han havde gennemført maratonløbet.	true	Bragging

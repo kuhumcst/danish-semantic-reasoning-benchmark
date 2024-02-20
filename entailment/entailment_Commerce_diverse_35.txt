@@ -1,0 +1,36 @@
+a	b	c	d
+Jeg køber bolden af Pia for 20 kr. 	Bolden er nu hos mig, og Pia har de 20 kr.	true	Commerce_buy
+Jeg køber bolden af Pia for 20 kr. 	Bolden er nu hos Pia, og de 20 kr. hos mig.	false	Commerce_buy
+Jeg køber bolden af Pia for 20 kr. 	Jeg har nu bolden, og Pia har de 20 kr. 	true	Commerce_buy
+Jeg køber bolden af Pia for 20 kr. 	Pia har nu bolden, og jeg har de 20 kr. 	false	Commerce_buy
+Jeg køber ikke bolden af Pia for 20 kr. 	Jeg har nu bolden, og Pia har de 20 kr. 	false	Commerce_buy
+Jeg køber ikke bolden af Pia for 20 kr. 	Pia har nu bolden, og jeg har de 20 kr. 	true	Commerce_buy
+Pia soldede lønnen op.	Pia har nu ingen løn tilbage	true	Commerce_buy
+Pia soldede lønnen op.	Pia har stadig sin løn	false	Commerce_buy
+Pia investerede 10.000 kr. fra sin bankkonto i aktier.	Pia har nu 10.000 kr færre på bankkontoen.	true	Commerce_buy
+Pia investerede 10.000 kr. fra sin bankkonto i aktier.	Pia har det samme beløb på bankkontoen.	false	Commerce_buy
+Pia erstattede Peters cykel.	Pia har nu færre penge. 	true	Commerce_pay
+Pia erstattede Peters cykel.	Pia har ikke færre penge nu. 	false	Commerce_pay
+Pia erstattede Peters cykel.	Pia har flere penge nu.	false	Commerce_pay
+Pia gav Peter en god erstatning for cyklen.	Erstatningen gav Peter råd til en ny cykel.	true	Commerce_pay
+Pia gav Peter erstatning for cyklen.	Efter erstatningen har Peter ikke nogen penge. 	false	Commerce_pay
+Pia gav Peter erstatning for cyklen.	Erstatningen gav ikke Peter råd til en ny cykel.	neutral	Commerce_pay
+Pia betalte sin regning til købmanden. 	Nu har Pia færre penge.	true	Commerce_pay
+Pia betalte sin regning til købmanden. Nu har Pia færre penge.	Nu har Pia flere penge.	false	Commerce_pay
+Pia indbetalte mange penge på sin pensionopsparing.	Efter indbetalingen har Pia en større pensionsopsparing.	true	Commerce_pay
+Pia indbetalte mange penge på sin pensionopsparing.	Efter indbetalingen har Pia en mindre pensionsopsparing.	false	Commerce_pay
+Pia indbetalte mange penge på sin pensionopsparing.	Efter indbetalingen er Pias pensionsopsparing af samme størrelse som før.	false	Commerce_pay
+Pia solgte sin gamle bil til Peter for 5000 kr. 	Pia har nu de 5000 kr. 	true	Commerce_sell
+Pia solgte sin gamle bil til Peter for 5000 kr. 	Pia har nu den gamle bil. 	false	Commerce_sell
+Pia solgte sin gamle bil til Peter for 5000 kr. 	Peter har nu Pias gamle bil.	true	Commerce_sell
+Pia solgte sin gamle bil til Peter for 5000 kr. 	Peter har stadig de 5000 kr. 	false	Commerce_sell
+Pia bortauktionerer sin sofa på eBay.	Pia har stadig sofaen.	false	Commerce_sell
+Pia bortauktionerer sin sofa på eBay.	Pia har ikke længere sofaen.	true	Commerce_sell
+Pia bortauktionerer sin sofa på eBay.	Pia fik penge for sin sofa.	true	Commerce_sell
+Pia bortauktionerer sin sofa på eBay.	Pia fik 5000 kr for sin sofa.	neutral	Commerce_sell
+Staderne falbyder julegaver og andet julestads.	Staderne sælger julestads.	true	Commerce_sell
+Staderne falbyder julegaver, julegodter og julestads.	Staderne sælger julepynt.	true	Commerce_sell
+Staderne falbyder julegaver, julegodter og julestads.	Staderne sælger ikke juleknas.	false	Commerce_sell
+Staderne falbyder julegaver, julegodter og julestads.	Staderne sælger ikke julepynt.	false	Commerce_sell
+Staderne falbyder julegaver, julegodter og julestads.	Staderne sælger ikke bøger.	neutral	Commerce_sell
+Staderne falbyder julegaver, julegodter og julestads.	Staderne sælger bøger.	neutral	Commerce_sell

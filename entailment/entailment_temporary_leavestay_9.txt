@@ -1,0 +1,10 @@
+a	b	c	d
+De overnattede i et shelter ved floden.	De sov på hotel om natten.	false	Temporary stay
+De overnattede i et shelter ved floden.	De sov ude om natten. 	true	Temporary stay
+De overnattede i et shelter ved floden.	De sov i telt om natten.	false	Temporary stay
+Per tog orlov i hele 2023.	Per var ikke på arbejde i 2023.	true	Temporary leave
+Per tog orlov i hele 2023.	Per var på arbejde hele 2023	false	Temporary leave
+Per tog orlov i hele 2023.	Per var på arbejde noget af 2023.	false	Temporary leave
+Per tog på ferie i uge 7. 	Per var ikke på arbejde i uge 7.	true	Temporary leave
+Per tog på ferie i uge 7. 	Per var på arbejde i uge 7. 	false	Temporary leave
+Per tog på ferie i uge 7. 	Per tog orlov i uge 7.	false	Temporary leave
