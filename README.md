@@ -2,6 +2,9 @@
 A Danish semantic reasoning benchmark compiled from lexical semantic resources
 This benchmark is the first version of a semantic reasoning benchmark for Danish compiled semi-automatically from a number of human-curated lexical-semantic resources, which function as our gold standard. The datasets constitute a benchmark for assessing selected language understanding capacities of large language models (LLMs) for Danish. 
 
+## Beta version
+Current version is a beta version and is not yet fully curated. 
+
 This first version comprises 25 datasets across 6 different tasks and include 3,800 test instances. Although still limited in size, we go beyond comparative evaluation datasets for Danish by including both negative and contrastive examples as well as low-frequent vocabulary; aspects which tend to challenge current LLMs when based substantially on language transfer. 
 The datasets focus on 
 
