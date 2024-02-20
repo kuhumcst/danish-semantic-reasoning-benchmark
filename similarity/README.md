@@ -46,4 +46,4 @@ candidates	label	core_group_placement	outlier_placement
 
 
 ## License
-
+[CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
