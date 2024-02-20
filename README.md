@@ -17,7 +17,7 @@ We hope to extend the datasets in the near future depending on funding.
 
 
 ## Credit and reference
-Pedersen, B. S., Sørensen, N. C. H., Olsen, S., Nimb, S. & Gray, S. (in print). Towards a Danish Semantic Reasoning Benchmark - Compiled from Lexical-Semantic Resources for Assessing Selected Language Understanding Capabilities of Large Language Models. In *Proceedings of the Fourteenth Language Resources and Evaluation Conference*
+Pedersen, B. S., Sørensen, N. C. H., Olsen, S., Nimb, S. & Gray, S. (in print). Towards a Danish Semantic Reasoning Benchmark - Compiled from Lexical-Semantic Resources for Assessing Selected Language Understanding Capabilities of Large Language Models. In *Proceedings of the Fourteenth Language Resources and Evaluation Conference.*
 
 [Center for Language Technology, Department of Nordic Studies and Linguistics, University of Copenhagen](https://cst.ku.dk/english/)
 
