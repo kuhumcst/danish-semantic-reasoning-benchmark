@@ -1,26 +1,26 @@
 Made_by miscell.			
 Man laver arme riddere ved at stege dem; man laver klatkage ved at stege den	man laver salat ved at stege den	false	made_by miscell
-Man laver en fiskefilet ved at stege den; man laver kartofler ved at koge dem	man laver brød ved at stege det	false	made_by miscell
-Man laver en kartoffelpandekage ved at stege den; man laver ris ved at koge dem	man laver flødeskum ved at stege det	false	made_by miscell
-Man laver et spejlæg ved at stege det; man laver blødkogt et æg ved at koge det	man laver en lagkage ved at stege den	false	made_by miscell
-Man laver stegt flæsk ved at stege det; man laver pasta ved at koge den	Man laver sharwarma ved at stege det	true	made_by miscell
-Man laver salat ved at tilberede den; man laver karftofler ved at koge dem	Man laver waldorfsalat ved at tilberede den	true	made_by miscell
-Man laver klejner ved at koge dem; man laver pasta ved at koge den	Man laver ikke flødeskum ved at stege det	true	made_by miscell
-Man laver ikke en fiskefilet ved at koge den; man laver ikke karftofler ved at pochere dem	Man laver ikke æg ved at marinere dem	true	made_by miscell
+Man laver fiskefilet ved at stege den; man laver karftofler ved at koge dem	man laver brød ved at stege det	false	made_by miscell
+Man laver kartoffelpandekage ved at stege den; man laver ris ved at koge dem	man laver flødeskum ved at stege den	false	made_by miscell
+Man laver spejlæg ved at stege det; man laver blødkogt æg ved at koge det	man laver lagkage ved at stege den	false	made_by miscell
+Man laver stegt flæsk ved at stege det; man laver pasta ved at koge den	Man laver sharwarma ved at stege den	true	made_by miscell
+Man laver salat ved at tilberede den; man laver karftofler ved at koge dem	man laver waldorfsalat ved at tilberede den	true	made_by miscell
+Man laver klejner ved at koge dem; man laver pasta ved at koge den	Man laver ikke flødeskum ved at stege den	true	made_by miscell
+Man laver ikke fiskefilet ved at koge den; man laver ikke karftofler ved at porchere dem	Man laver ikke æg ved at marinere dem	true	made_by miscell
 Man laver en frakke ved at sy den; man laver en sweater ved at strikke den	Man laver underbukser ved at strikke dem	false	made_by miscell
 Man laver undertøj ved at sy det; man laver en hue ved at strikke den	Man laver sommertøj ved at koge det	false	made_by miscell
 Man laver dametøj ved at sy det; man laver kager ved at bage dem	Man laver herretøj ved at bage det	false	made_by miscell
-Man laver pasta ved at koge den; man laver børnetøj ved at sy det	Man laver ikke børnetøj ved at sy det	false	made_by miscell
+Man laver pasta ved at koge det; man laver børnetøj ved at sy det	Man laver ikke børnetøj ved at skræddersy det	false	made_by miscell
 Man laver en tvebak ved at bage den; man laver en hat ved at sy den	Man laver en fez ved at sy den	true	made_by miscell
 Man laver en roman ved at skrive den; man laver et essay ved at skrive det	Man laver ikke en hat ved at skrive den	true	made_by miscell
 Man laver en artikel ved at skrive den; man laver ikke en strømpe ved at skrive den	Man laver ikke en handske ved at skrive den	true	made_by miscell
 Man laver en klumme ved at skrive den, man laver ikke en roman ved at stege den	Man laver en brevroman ved at skære den	false	made_by miscell
 Man laver en kollektivroman ved at skrive den; man laver en ret ved at tilberede den	man laver en knaldroman ved at skrive den	true	made_by miscell
 Man laver en bil ved at fremstille den; man laver ikke en blomst ved at fremstille den	Man laver ikke en hest ved at fremstille den	true	made_by miscell
-Man laver et tog ved at fremstille det; man laver en ret ved at tilberede den	Man laver te ved at pochere det	false	made_by miscell
+Man laver et tog ved at fremstille det; man laver en ret ved at tilberede den	Man laver te ved at porchere det	false	made_by miscell
 Man laver te ved at brygge det, man laver en kage ved at bage den	Man laver parfume ved at bage det	false	made_by miscell
 Man laver øl ved at brygge det, man laver en kage ved at bage den	Man laver ikke et hus ved at brygge det	true	made_by miscell
 Man laver et hus ved at bygge det; man laver ikke et tog ved at brygge det	Man laver et sommerhus ved at bygge det	true	made_by miscell
 Man laver et typehus ved at bygge det; man laver ikke et klyngehus ved at bage det	Man laver et murermesterhus ved at bygge det	true	made_by miscell
 Man laver et parcelhus ved at bygge det; man laver en krimi ved at skrive den	Man laver en hue ved at strikke den	true	made_by miscell
-Man laver en småkage ved at bage den; man laver ikke en specie ved at brygge den	Man laver ikke en brunkage ved at bage den	false	made_by miscell
+Man laver en småkage ved at bage den; man laver ikke en specie ved at brygge den	Man laver ikke brunkage ved at bage den	false	made_by miscell

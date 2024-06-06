@@ -1,0 +1,60 @@
+en skoletid er et tidsrum; en måned er et tidsrum	afgangstid er ikke et tidsrum	true	period of time
+fritid er et tidsrum; karensperiode er et tidsrum	et nytår er ikke et tidsrum	true	period of time
+fritid er et tidsrum; en halvleg er et tidsrum	en eftermiddag er ikke et tidsrum	false	period of time
+en halvleg er et tidsrum; et sekund er et tidsrum	middag er ikke et tidsrum	true	period of time
+en sommer er et tidsrum; karensperiode er et tidsrum	solhverv er ikke et tidsrum	true	period of time
+en aften er et tidsrum; tjenestetid er et tidsrum	en mandag er ikke et tidsrum	false	period of time
+en parlamentssamling er et tidsrum; et sekund er et tidsrum	et dødsøjeblik er ikke et tidsrum	true	period of time
+en æra er et tidsrum; en halvleg er et tidsrum	deadline er ikke et tidsrum	true	period of time
+karensperiode er et tidsrum; en kvæld er et tidsrum	en lukketid er ikke et tidsrum	true	period of time
+tjenestetid er et tidsrum; en aften er et tidsrum	et vendepunkt er ikke et tidsrum	true	period of time
+en parlamentssamling er et tidsrum; en dag er et tidsrum	en formiddag er ikke et tidsrum	false	period of time
+en måned er et tidsrum; et kvarter er et tidsrum	et tiår er ikke et tidsrum	false	period of time
+en skoledag er et tidsrum; fritid er et tidsrum	et århundredskifte er ikke et tidsrum	true	period of time
+senfirserne er et tidsrum; en dag er et tidsrum	et klokkeslæt er ikke et tidsrum	true	period of time
+en karenstid er et tidsrum; en æra er et tidsrum	en spisetid er ikke et tidsrum	true	period of time
+fritid er et tidsrum; tjenestetid er et tidsrum	en ulvetime er ikke et tidsrum	false	period of time
+en aften er et tidsrum; en halvleg er et tidsrum	et gry er ikke et tidsrum	false	period of time
+en skoletid er et tidsrum; fritid er et tidsrum	et mødetidspunkt er ikke et tidsrum	true	period of time
+et minut er et tidsrum; en blomstringstid er et tidsrum	en højde er ikke et tidsrum	true	period of time
+en halvleg er et tidsrum; en morgen er et tidsrum	en indgang er ikke et tidsrum	true	period of time
+senfirserne er et tidsrum; en kvæld er et tidsrum	en lejlighed er et tidsrum	false	period of time
+en skoledag er et tidsrum; et sekund er et tidsrum	et mødetidspunkt er et tidsrum	false	period of time
+fritid er et tidsrum; et minut er et tidsrum	afgangstid er et tidsrum	false	period of time
+en sommer er et tidsrum; en dag er et tidsrum	midnat er et tidsrum	false	period of time
+en vækstsæson er et tidsrum; en morgen er et tidsrum	deadline er et tidsrum	false	period of time
+et kvarter er et tidsrum; et sekund er et tidsrum	et århundredskifte er et tidsrum	false	period of time
+en æra er et tidsrum; en aften er et tidsrum	et sted er et tidsrum	false	period of time
+fritid er et tidsrum; en dag er et tidsrum	en ulvetime er et tidsrum	true	period of time
+en måned er et tidsrum; en måned er et tidsrum	middag er et tidsrum	false	period of time
+en karenstid er et tidsrum; senfirserne er et tidsrum	en formiddag er et tidsrum	true	period of time
+en skoledag er et tidsrum; en måned er et tidsrum	aftenstid er et tidsrum	true	period of time
+en kvæld er et tidsrum; en dag er et tidsrum	en højde er et tidsrum	false	period of time
+en måned er et tidsrum; en skoledag er et tidsrum	et dødsøjeblik er et tidsrum	false	period of time
+en skoletid er et tidsrum; fritid er et tidsrum	et klokkeslæt er et tidsrum	false	period of time
+tjenestetid er et tidsrum; en dag er et tidsrum	en mandag er et tidsrum	true	period of time
+en morgen er et tidsrum; et minut er et tidsrum	en ankomsttid er et tidsrum	false	period of time
+tjenestetid er et tidsrum; en dag er et tidsrum	et begyndelsespunkt er et tidsrum	false	period of time
+en morgen er et tidsrum; et sekund er et tidsrum	en eftermiddag er et tidsrum	true	period of time
+en vækstsæson er et tidsrum; en blomstringstid er et tidsrum	et tiår er et tidsrum	false	period of time
+en sommer er et tidsrum; tjenestetid er et tidsrum	solhverv er et tidsrum	false	period of time
+fritid er et tidsrum; en skoletid er et tidsrum	bagetid er et tidsrum	true	period of time
+et sekund er et tidsrum; en parlamentssamling er et tidsrum	sensommer er et tidsrum	true	period of time
+en sommer er et tidsrum; et kvarter er et tidsrum	en kvæld er et tidsrum	true	period of time
+en dag er et tidsrum; en aften er et tidsrum	en halvleg er et tidsrum	true	period of time
+en skoletid er et tidsrum; en æra er et tidsrum	en vækstsæson er et tidsrum	true	period of time
+en halvleg er et tidsrum; en kvæld er et tidsrum	en morgen er et tidsrum	true	period of time
+senfirserne er et tidsrum; et minut er et tidsrum	en dag er et tidsrum	true	period of time
+en parlamentssamling er et tidsrum; en karenstid er et tidsrum	en skoledag er et tidsrum	true	period of time
+et minut er et tidsrum; en æra er et tidsrum	en måned er et tidsrum	true	period of time
+fritid er et tidsrum; en karenstid er et tidsrum	en sommer er et tidsrum	true	period of time
+en morgen er et tidsrum; karensperiode er et tidsrum	et minut er et tidsrum	true	period of time
+en halvleg er et tidsrum; en blomstringstid er et tidsrum	karensperiode er et tidsrum	true	period of time
+et minut er et tidsrum; senfirserne er et tidsrum	et sekund er et tidsrum	true	period of time
+en skoledag er et tidsrum; tjenestetid er et tidsrum	fritid er et tidsrum	true	period of time
+en kvæld er et tidsrum; en skoledag er et tidsrum	en skoletid er et tidsrum	true	period of time
+en parlamentssamling er et tidsrum; en karenstid er et tidsrum	en blomstringstid er et tidsrum	true	period of time
+en vækstsæson er et tidsrum; en skoletid er et tidsrum	et kvarter er et tidsrum	true	period of time
+en halvleg er et tidsrum; et sekund er et tidsrum	en karenstid er et tidsrum	true	period of time
+en dag er et tidsrum; en karenstid er et tidsrum	en aften er et tidsrum	true	period of time
+en skoletid er et tidsrum; en blomstringstid er et tidsrum	senfirserne er et tidsrum	true	period of time

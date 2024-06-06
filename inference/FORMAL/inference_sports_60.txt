@@ -1,60 +1,59 @@
-verdensmesterskab er ikke en type sport; opgør er ikke en type sport	badminton er en type sport	true	sports
-lære er ikke en type sport; htx er ikke en type sport	stafet er en type sport	true	sports
-match er ikke en type sport; ph.d. er ikke en type sport	femkamp er en type sport	true	sports
+verdensmesterskab er ikke en type sport; fodbold er en type sport	badminton er en type sport	true	sports
+isdans er en type sport; htx er ikke en type sport	stafet er en type sport	true	sports
+rugby er en type sport; bordtennis er en type sport	femkamp er en type sport	true	sports
 kvalkamp er ikke en type sport; nedrykningskamp er ikke en type sport	ræs er en type sport	true	sports
-juletræ er ikke en type sport; quiz er ikke en type sport	hæk er en type sport	true	sports
+juletræ er ikke en type sport; hækkeløb er en type sport	hæk er en type sport	true	sports
 gilde er ikke en type sport; sold er ikke en type sport	duatlon er en type sport	true	sports
-gudstjeneste er ikke en type sport; familiegudstjeneste er ikke en type sport	biatlon er en type sport	true	sports
+travløb er en type sport; syvkamp er en type sport	biatlon er en type sport	true	sports
 skue er ikke en type sport; danmarksmesterskab er ikke en type sport	armbøjning er en type sport	true	sports
-mesterskab er ikke en type sport; lejr er ikke en type sport	atletik er en type sport	true	sports
-hf er ikke en type sport; personalefest er ikke en type sport	kriterium er en type sport	true	sports
-afsløring er ikke en type sport; udstilling er ikke en type sport	dirttrack er en type sport	true	sports
-overbygning er ikke en type sport; messe er ikke en type sport	fodbold er en type sport	true	sports
-ordination er ikke en type sport; gilde er ikke en type sport	svømning er en type sport	true	sports
+volleybold er en type sport; taekwondo er en type sport	atletik er en type sport	true	sports
+hf er ikke en type sport; personalefest er ikke en type sport	karate er en type sport	true	sports
+afsløring er ikke en type sport; paraglidning er en type sport	dirttrack er en type sport	true	sports
+sumobrydning en type sport; messe er ikke en type sport	fodbold er en type sport	true	sports
+ordination er ikke en type sport; svømning er en type sport	skydning er en type sport	true	sports
 træf er ikke en type sport; indflytterfest er ikke en type sport	træk er en type sport	true	sports
-samtale er ikke en type sport; testimonial er ikke en type sport	hækkeløb er en type sport	true	sports
+samtale er ikke en type sport; cykelløb er en type sport	hækkeløb er en type sport	true	sports
 studie er ikke en type sport; europamesterskab er ikke en type sport	squash er en type sport	true	sports
-rodeo er ikke en type sport; gudstjeneste er ikke en type sport	golf er en type sport	true	sports
+hestevæddeløb er en type sport; håndbold er en type sport	golf er en type sport	true	sports
 underholdningsprogram er ikke en type sport; konfirmation er ikke en type sport	spring er en type sport	true	sports
-rave er ikke en type sport; værnepligt er ikke en type sport	armstrækning er en type sport	true	sports
-træf er ikke en type sport; specialkursus er ikke en type sport	brydning er en type sport	true	sports
-landskamp er ikke en type sport; sold er ikke en type sport	orientering er ikke en type sport	false	sports
-gladiatorkamp er ikke en type sport; brevkursus er ikke en type sport	sweepstake er ikke en type sport	false	sports
+rave er ikke en type sport; brydekamp er en type sport	armstrækning er en type sport	true	sports
+femkamp er en type sport; sumo er en type sport	brydning er en type sport	true	sports
+landskamp er ikke en type sport; sold er ikke en type sport	orienteringsløb er ikke en type sport	false	sports
+kampsport er en type sport; trav er en type sport	sweepstake er ikke en type sport	false	sports
 samtale er ikke en type sport; grandprix er ikke en type sport	fodbold er ikke en type sport	false	sports
-gudstjeneste er ikke en type sport; opgør er ikke en type sport	duatlon er ikke en type sport	false	sports
-sammenkomst er ikke en type sport; handling er ikke en type sport	rulleskøjteløb er ikke en type sport	false	sports
+baseball er en type sport; opgør er ikke en type sport	duatlon er ikke en type sport	false	sports
+sammenkomst er ikke en type sport; hammerkast er en type sport	rulleskøjteløb er ikke en type sport	false	sports
 juleklip er ikke en type sport; klassiker er ikke en type sport	sumo er ikke en type sport	false	sports
-pilotuddannelse er ikke en type sport; efteruddannelse er ikke en type sport	kriterium er ikke en type sport	false	sports
+længdespring er en type sport; sportsdans er en type sport	karate er ikke en type sport	false	sports
 juletræ er ikke en type sport; efg er ikke en type sport	stød er ikke en type sport	false	sports
-bal er ikke en type sport; elektricitetslære er ikke en type sport	hæk er ikke en type sport	false	sports
-sus er ikke en type sport; design er ikke en type sport	armbøjning er ikke en type sport	false	sports
-nedrykningskamp er ikke en type sport; lejr er ikke en type sport	stafet er ikke en type sport	false	sports
-europamesterskab er ikke en type sport; gilde er ikke en type sport	butterfly er ikke en type sport	false	sports
-sølvbryllup er ikke en type sport; orgie er ikke en type sport	skydning er ikke en type sport	false	sports
-gravøl er ikke en type sport; mesterskab er ikke en type sport	tri er ikke en type sport	false	sports
-fødselsdag er ikke en type sport; testimonial er ikke en type sport	crawl er ikke en type sport	false	sports
-gudstjeneste er ikke en type sport; afgang er ikke en type sport	højdespring er ikke en type sport	false	sports
+basketball er en type sport; volleyball er en type sport	hæk er ikke en type sport	false	sports
+curling er en type sport; design er ikke en type sport	armbøjning er ikke en type sport	false	sports
+nedrykningskamp er ikke en type sport; trapskydning er en type sport	stafet er ikke en type sport	false	sports
+europamesterskab er ikke en type sport; spydkast er en type sport	butterfly er ikke en type sport	false	sports
+cykelløb er en type sport; mesterskab er ikke en type sport	triatlon er ikke en type sport	false	sports
+fødselsdag er ikke en type sport; vandpolo er en type sport	crawl er ikke en type sport	false	sports
+gudstjeneste er ikke en type sport; langrend er en type sport	højdespring er ikke en type sport	false	sports
 lejr er ikke en type sport; konkurrence er ikke en type sport	slalom er ikke en type sport	false	sports
-studentergilde er ikke en type sport; karneval er ikke en type sport	cykelløb er ikke en type sport	false	sports
-kursus er ikke en type sport; brag er ikke en type sport	rytmisk er ikke en type sport	false	sports
-studentergilde er ikke en type sport; testimonial er ikke en type sport	gymnastik er ikke en type sport	false	sports
+ishockey er en type sport; forhindringsløb er en type sport	cykelløb er ikke en type sport	false	sports
+kursus er ikke en type sport; boksning er en type sport	kickboxing er ikke en type sport	false	sports
+polo er en type sport; testimonial er ikke en type sport	gymnastik er ikke en type sport	false	sports
 kanindræberkursus er ikke en type sport; underholdningsprogram er ikke en type sport	verdensmesterskab er ikke en type sport	true	sports
 skue er ikke en type sport; sammenkomst er ikke en type sport	opgør er ikke en type sport	true	sports
-hf er ikke en type sport; specialkursus er ikke en type sport	remis er ikke en type sport	true	sports
+skiskydning er en type sport; judo er en type sport	remis er ikke en type sport	true	sports
 hf er ikke en type sport; event er ikke en type sport	vielse er ikke en type sport	true	sports
-orgie er ikke en type sport; brevkursus er ikke en type sport	specialkursus er ikke en type sport	true	sports
+squash er en type sport; fodbold er en type sport	specialkursus er ikke en type sport	true	sports
 træf er ikke en type sport; verdensmesterskab er ikke en type sport	lære er ikke en type sport	true	sports
-opgør er ikke en type sport; repræsentation er ikke en type sport	guldbryllup er ikke en type sport	true	sports
+opgør er ikke en type sport; ridebanespringning er en type sport	guldbryllup er ikke en type sport	true	sports
 kamp er ikke en type sport; turnering er ikke en type sport	danmarksmesterskab er ikke en type sport	true	sports
-landskamp er ikke en type sport; sold er ikke en type sport	dåb er ikke en type sport	true	sports
-event er ikke en type sport; sangaften er ikke en type sport	eksamen er ikke en type sport	true	sports
-kvalkamp er ikke en type sport; htx er ikke en type sport	event er ikke en type sport	true	sports
-ph.d. er ikke en type sport; udstilling er ikke en type sport	reception er ikke en type sport	true	sports
-HA er ikke en type sport; workshop er ikke en type sport	orgie er ikke en type sport	true	sports
-dåb er ikke en type sport; kvalturnering er ikke en type sport	messe er ikke en type sport	true	sports
-studium er ikke en type sport; situation er ikke en type sport	overlevelseskursus er ikke en type sport	true	sports
-gilde er ikke en type sport; lejr er ikke en type sport	kamp er ikke en type sport	true	sports
-komsammen er ikke en type sport; overbygning er ikke en type sport	gladiatorkamp er ikke en type sport	true	sports
+landskamp er ikke en type sport; kuglestød er en type sport	dåb er ikke en type sport	true	sports
+windsurfing er en type sport; sangaften er ikke en type sport	eksamen er ikke en type sport	true	sports
+kvalkamp er ikke en type sport; cykelsport er en type sport	event er ikke en type sport	true	sports
+vægtløftning er en type sport; udstilling er ikke en type sport	reception er ikke en type sport	true	sports
+speedway er en type sport; softball er en type sport	orgie er ikke en type sport	true	sports
+brydning er en type sport; kvalturnering er ikke en type sport	messe er ikke en type sport	true	sports
+hockey er en type sport; kunstskøjteløb er en type sport	overlevelseskursus er ikke en type sport	true	sports
+gilde er ikke en type sport; golf er en type sport	kamp er ikke en type sport	true	sports
+komsammen er ikke en type sport; hestevæddeløb er en type sport	kampsport er ikke en type sport	false	sports
 party er ikke en type sport; cirkus er ikke en type sport	uddannelsessystem er ikke en type sport	true	sports
-udstilling er ikke en type sport; operascene er ikke en type sport	fest er ikke en type sport	true	sports
-salvelse er ikke en type sport; ph.d. er ikke en type sport	brag er ikke en type sport	true	sports
+travsport er en type sport; operascene er ikke en type sport	fest er ikke en type sport	true	sports
+diskoskast er en type sport; skydning er en type sport	brag er ikke en type sport	true	sports

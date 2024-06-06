@@ -1,0 +1,60 @@
+mørketid er ikke et tidspunkt; kriseperiode er ikke et tidspunkt	ankomsttid er et tidspunkt	TRUE	point in time
+afgangstid er et tidspunkt; atomvinter er ikke et tidspunkt	befrugtningstidspunkt er et tidspunkt	TRUE	point in time
+ankomsttid er et tidspunkt; afgangstid er et tidspunkt	begyndelsespunkt er et tidspunkt	TRUE	point in time
+befrugtningstidspunkt er et tidspunkt; ankomsttid er et tidspunkt 	betalingstermin er et tidspunkt	TRUE	point in time
+begyndelsespunkt er et tidspunkt; befrugtningstidspunkt er et tidspunkt 	deadline er et tidspunkt	TRUE	point in time
+betalingstermin er et tidspunkt; begyndelsespunkt er et tidspunkt 	dødsøjeblik er et tidspunkt	TRUE	point in time
+deadline er et tidspunkt; betalingstermin er et tidspunkt 	dødsår er et tidspunkt	TRUE	point in time
+dødsøjeblik er et tidspunkt; deadline er et tidspunkt 	frokosttid er et tidspunkt	TRUE	point in time
+dødsår er et tidspunkt; dødsøjeblik er et tidspunkt 	fyraften er et tidspunkt	TRUE	point in time
+frokosttid er et tidspunkt; dødsår er et tidspunkt 	gerningstidspunkt er et tidspunkt	TRUE	point in time
+fyraften er et tidspunkt; frokosttid er et tidspunkt 	lukketid er et tidspunkt	TRUE	point in time
+gerningstidspunkt er et tidspunkt; fyraften er et tidspunkt 	middagstid er et tidspunkt	TRUE	point in time
+lukketid er et tidspunkt; gerningstidspunkt er et tidspunkt 	midnat er et tidspunkt	TRUE	point in time
+middagstid er et tidspunkt; lukketid er et tidspunkt 	midvinter er et tidspunkt	TRUE	point in time
+midnat er et tidspunkt; middagstid er et tidspunkt 	mødetid er et tidspunkt	TRUE	point in time
+midvinter er et tidspunkt; midnat er et tidspunkt 	nytår er et tidspunkt	TRUE	point in time
+mødetid er et tidspunkt; midvinter er et tidspunkt 	sendetidspunkt er et tidspunkt	TRUE	point in time
+nytår er et tidspunkt; mødetid er et tidspunkt 	sluttid er et tidspunkt	TRUE	point in time
+sendetidspunkt er et tidspunkt; nytår er et tidspunkt 	solhverv er et tidspunkt	TRUE	point in time
+sluttid er et tidspunkt; sendetidspunkt er et tidspunkt 	spisetid er et tidspunkt	TRUE	point in time
+solhverv er et tidspunkt; sluttid er et tidspunkt 	termin er et tidspunkt	TRUE	point in time
+spisetid er et tidspunkt; solhverv er et tidspunkt 	trykkeår er et tidspunkt	TRUE	point in time
+termin er et tidspunkt; spisetid er et tidspunkt 	tændingstidspunkt er et tidspunkt	TRUE	point in time
+trykkeår er et tidspunkt; termin er et tidspunkt 	århundredskifte er et tidspunkt	TRUE	point in time
+tændingstidspunkt er et tidspunkt; trykkeår er et tidspunkt 	årsskifte er et tidspunkt	TRUE	point in time
+århundredskifte er et tidspunkt; tændingstidspunkt er et tidspunkt 	årtusindskifte er et tidspunkt	TRUE	point in time
+årsskifte er et tidspunkt; århundredskifte er et tidspunkt 	vintertid er et tidspunkt	FALSE	point in time
+årtusindskifte er et tidspunkt; årsskifte er et tidspunkt 	opgangstid er et tidspunkt	FALSE	point in time
+kriseperiode er ikke et tidspunkt; årtusindskifte er et tidspunkt	prøvetid er et tidspunkt	FALSE	point in time
+atomvinter er ikke et tidspunkt; mørketid er ikke et tidspunkt	bagetid er et tidspunkt	FALSE	point in time
+mørketid er ikke et tidspunkt; kriseperiode er ikke et tidspunkt	fritid er et tidspunkt	FALSE	point in time
+afgangstid er et tidspunkt; atomvinter er ikke et tidspunkt	æra er et tidspunkt	FALSE	point in time
+ankomsttid er et tidspunkt; afgangstid er et tidspunkt	sensommer er et tidspunkt	FALSE	point in time
+befrugtningstidspunkt er et tidspunkt; ankomsttid er et tidspunkt 	stenalder er et tidspunkt	FALSE	point in time
+begyndelsespunkt er et tidspunkt; befrugtningstidspunkt er et tidspunkt 	tidsplan er et tidspunkt	FALSE	point in time
+betalingstermin er et tidspunkt; begyndelsespunkt er et tidspunkt 	samtid er et tidspunkt	FALSE	point in time
+deadline er et tidspunkt; betalingstermin er et tidspunkt 	mikrosekund er et tidspunkt	FALSE	point in time
+dødsøjeblik er et tidspunkt; deadline er et tidspunkt 	årrække er et tidspunkt	FALSE	point in time
+dødsår er et tidspunkt; dødsøjeblik er et tidspunkt 	vækstsæson er et tidspunkt	FALSE	point in time
+frokosttid er et tidspunkt; dødsår er et tidspunkt 	kontraktperiode er et tidspunkt	FALSE	point in time
+fyraften er et tidspunkt; frokosttid er et tidspunkt 	alder er et tidspunkt	FALSE	point in time
+gerningstidspunkt er et tidspunkt; fyraften er et tidspunkt 	sommer er et tidspunkt	FALSE	point in time
+lukketid er et tidspunkt; gerningstidspunkt er et tidspunkt 	blomstringstid er et tidspunkt	FALSE	point in time
+middagstid er et tidspunkt; lukketid er et tidspunkt 	studietid er et tidspunkt	FALSE	point in time
+midnat er et tidspunkt; middagstid er et tidspunkt 	liggetid er et tidspunkt	FALSE	point in time
+midvinter er et tidspunkt; midnat er et tidspunkt 	vintersøvn er et tidspunkt	FALSE	point in time
+mødetid er et tidspunkt; midvinter er et tidspunkt 	dag er et tidspunkt	FALSE	point in time
+nytår er et tidspunkt; mødetid er et tidspunkt 	prøvetid er et tidspunkt	FALSE	point in time
+sendetidspunkt er et tidspunkt; nytår er et tidspunkt 	indian summer er et tidspunkt	FALSE	point in time
+sluttid er et tidspunkt; sendetidspunkt er et tidspunkt 	agurketid er et tidspunkt	FALSE	point in time
+solhverv er et tidspunkt; sluttid er et tidspunkt 	skærsommer er et tidspunkt	FALSE	point in time
+spisetid er et tidspunkt; solhverv er et tidspunkt 	overgangsalder er et tidspunkt	FALSE	point in time
+termin er et tidspunkt; spisetid er et tidspunkt 	forsøgsperiode er et tidspunkt	FALSE	point in time
+trykkeår er et tidspunkt; termin er et tidspunkt 	indsigelsesfrist er et tidspunkt	FALSE	point in time
+tændingstidspunkt er et tidspunkt; trykkeår er et tidspunkt 	spærretid er et tidspunkt	FALSE	point in time
+århundredskifte er et tidspunkt; tændingstidspunkt er et tidspunkt 	time er et tidspunkt	FALSE	point in time
+årsskifte er et tidspunkt; århundredskifte er et tidspunkt 	omløbstid er et tidspunkt	FALSE	point in time
+årtusindskifte er et tidspunkt; årsskifte er et tidspunkt 	tjenestetid er et tidspunkt	FALSE	point in time
+kriseperiode er ikke et tidspunkt; årtusindskifte er et tidspunkt	vinterdvale er et tidspunkt	FALSE	point in time
+atomvinter er ikke et tidspunkt; mørketid er ikke et tidspunkt	vinterdvaleer et tidspunkt	FALSE	point in time

@@ -1,28 +1,28 @@
-en plante er en plante; en plantevækst er en plante	en vækst er en plante	true	orthogonal plant hypernyms
-en gran er en plante; en plantesort er en plante	en spire er en plante	true	orthogonal plant hypernyms
-et træ er en plante; en busk er en plante	et allétræ er en plante	true	orthogonal plant hypernyms
-en gran er en plante; en plantevækst er en plante	et juletræ er en plante	true	orthogonal plant hypernyms
-en gran er en plante; en plantesort er en plante	en urt er en plante	true	orthogonal plant hypernyms
-en plantevækst er en plante; en plantesort er en plante	et træ er en plante	true	orthogonal plant hypernyms
-en plantevækst er en plante; en plantesort er en plante	et ukrudt er en plante	true	orthogonal plant hypernyms
-et træ er en plante; en gran er en plante	en værtsplante er en plante	true	orthogonal plant hypernyms
-en plantevækst er en plante; en plantesort er en plante	en bonsai er en plante	true	orthogonal plant hypernyms
-en busk er en plante; et træ er en plante	en grøde er en plante	true	orthogonal plant hypernyms
-en gran er en plante; en plantevækst er en plante	en krydderurt er en plante	true	orthogonal plant hypernyms
-en plantevækst er en plante; en plantesort er en plante	en vækst er en plantesort	false	orthogonal plant hypernyms
-en plante er en plante; et træ er en plante	en urt er en plantesort	false	orthogonal plant hypernyms
-en plantesort er en plante; et træ er en plante	en værtsplante er en plantesort	false	orthogonal plant hypernyms
-en busk er en plante; en plantesort er en plante	en bonsai er en plantesort	false	orthogonal plant hypernyms
-en busk er en plante; en plantevækst er en plante	en spire er en plantesort	false	orthogonal plant hypernyms
-en plantesort er en plante; en gran er en plante	et træ er en plantesort	false	orthogonal plant hypernyms
-en plante er en plante; en plantevækst er en plante	et allétræ er en plantesort	false	orthogonal plant hypernyms
-en plantevækst er en plante; en busk er en plante	en krydderurt er en plantesort	false	orthogonal plant hypernyms
-en gran er en plante; en plantesort er en plante	et juletræ er en plantesort	false	orthogonal plant hypernyms
-en busk er en plante; en plantesort er en plante	et ukrudt er en plantesort	false	orthogonal plant hypernyms
-en busk er en plante; en plantesort er en plante	en grøde er en plantesort	false	orthogonal plant hypernyms
-en plantesort er en plante; en plante er en plante	en busk er en plante	true	orthogonal plant hypernyms
-et træ er en plante; en busk er en plante	en plantesort er en plante	true	orthogonal plant hypernyms
-en busk er en plante; en plantevækst er en plante	en plante er en plante	true	orthogonal plant hypernyms
-en plantesort er en plante; en busk er en plante	en plantevækst er en plante	true	orthogonal plant hypernyms
-en busk er en plante; en plantevækst er en plante	et træ er en plante	true	orthogonal plant hypernyms
-en plante er en plante; en busk er en plante	en gran er en plante	true	orthogonal plant hypernyms
+en sommerplante er en plante; en klatretræ er en plante	en snylteplante er en plante	true	orthogonal plant hypernyms
+et juletræ er en plante; en slyngplante er en plantesort	en spire er en plante	true	orthogonal plant hypernyms
+et skovtræ er en plante; ukrudt er en plante	et allétræ er en plante	true	orthogonal plant hypernyms
+et træ er en plante; en klatretræ er en plante	en gran er en plante	true	orthogonal plant hypernyms
+et vejtræ er en plante; en slyngplante er en plante	en urt er en plante	true	orthogonal plant hypernyms
+en bærbusk er en plante; en snylteplante er en plantesort	et værtsplante er en plante	true	orthogonal plant hypernyms
+en stueplante er en plante; en udplantningsplante er en plante	ugræs er en plante	true	orthogonal plant hypernyms
+en busk er en plante; et juletræ er en plante	et vejtræ er en plante	true	orthogonal plant hypernyms
+en klatretræ er en plante; en værtsplante er en plante	en bonsai er en plante	true	orthogonal plant hypernyms
+ukrudt er en plante; et skovtræ er en plante	en grøde er en plante	true	orthogonal plant hypernyms
+et juletræ er en plante; et klatretræ er en plante	en krydderurt er en plante	true	orthogonal plant hypernyms
+en plantevækst er en plante; en sommerplante er en plante	en snylteplante er en plantesort	true	orthogonal plant hypernyms
+en sommerplante er en plante; et vejtræ er en plante	en urt er en plantesort	false	orthogonal plant hypernyms
+en værtsplante er en plante; et træ er en plante	et skovtræ er en plantesort	false	orthogonal plant hypernyms
+ugræs er en plante; en snylteplante er en plantesort	en bonsai er en plantesort	false	orthogonal plant hypernyms
+en krydderurt er en plante; en bærbusk er en plante	en spire er en plantesort	false	orthogonal plant hypernyms
+en plantesort er en plante; et juletræ er en plante	et træ er en plantesort	false	orthogonal plant hypernyms
+en sommerplante er en plante; en klatretræ er en plante	et allétræ er en plantesort	false	orthogonal plant hypernyms
+et vejtræ er en plante; en busk er en plante	en krydderurt er en plantesort	false	orthogonal plant hypernyms
+et juletræ er en plante; en sommerplante er en plante	et juletræ er en plantesort	false	orthogonal plant hypernyms
+en bonsai er en plante; en slyngplante er en plantesort	ukrudt er en plantesort	false	orthogonal plant hypernyms
+en busk er en plante; en udplantningsplante er en plante	en grøde er en plantesort	false	orthogonal plant hypernyms
+en værtsplante er en plante; en sommerplante er en plante	ugræs er en plante	true	orthogonal plant hypernyms
+et skovtræ er en plante; en busk er en plante	en snylteplante er en plantesort	true	orthogonal plant hypernyms
+ugræs er en plante; en klatretræ er en plante	en sommerplante er en plante	true	orthogonal plant hypernyms
+et træ er en plante; ukrudt er en plante	en klatretræ er en plante	true	orthogonal plant hypernyms
+en krydderurt er en plante; en klatretræ er en plante	et bonsaitræ er en plante	true	orthogonal plant hypernyms
+en sommerplante er en plante; en busk er en plante	en juletræ er en plante	true	orthogonal plant hypernyms

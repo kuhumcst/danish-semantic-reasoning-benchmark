@@ -1,0 +1,60 @@
+teamspirit er en følelse; afstand er en følelse	konstruktion er ikke en følelse	true	feelings
+swing er en følelse; pres er en følelse	forestilling er ikke en følelse	true	feelings
+anfald er en følelse; brus er en følelse	pjat er ikke en følelse	true	feelings
+misundelse er en følelse; skyld er en følelse	vision er ikke en følelse	true	feelings
+misundelse er en følelse; samhørighed er en følelse	ferieminde er ikke en følelse	true	feelings
+afstand er en følelse; tryghed er en følelse	formål er ikke en følelse	true	feelings
+kærlighed er en følelse; lyst er en følelse	drømmebillede er ikke en følelse	true	feelings
+tidevandsbølge er en følelse; usikkerhed er en følelse	myte er ikke en følelse	true	feelings
+aggression er en følelse; mod er en følelse	topnyhed er ikke en følelse	true	feelings
+passion er en følelse; foragt er en følelse	mareridt er ikke en følelse	true	feelings
+afstand er en følelse; frygt er en følelse	overtro er ikke en følelse	true	feelings
+tomrum er en følelse; medlidenhed er en følelse	undren er ikke en følelse	true	feelings
+skam er en følelse; swing er en følelse	betragtning er ikke en følelse	true	feelings
+stød er en følelse; lysten er en følelse	indskydelse er ikke en følelse	true	feelings
+tidevandsbølge er en følelse; passion er en følelse	impuls er ikke en følelse	true	feelings
+værdighed er en følelse; respekt er en følelse	identitet er ikke en følelse	true	feelings
+medfølelse er en følelse; jaloux er en følelse	hensigt er ikke en følelse	true	feelings
+flod er en følelse; angst er en følelse	mål er ikke en følelse	true	feelings
+misundelse er en følelse; lidenskab er en følelse	mantra er ikke en følelse	true	feelings
+angst er en følelse; melankoli er en følelse	fatamorgana er ikke en følelse	true	feelings
+ligegyldighed er en følelse; frustration er en følelse	roadshow er en følelse	false	feelings
+romantik er en følelse; mod er en følelse	drømmebillede er en følelse	false	feelings
+stik er en følelse; deltagelse er en følelse	impuls er en følelse	false	feelings
+afhængighed er en følelse; drift er en følelse	anslag er en følelse	false	feelings
+vild er en følelse; trang er en følelse	hensigt er en følelse	false	feelings
+vred er en følelse; samhørighed er en følelse	syn er en følelse	false	feelings
+beundring er en følelse; vred er en følelse	minde er en følelse	false	feelings
+træthed er en følelse; jegfølelse er en følelse	ferieminde er en følelse	false	feelings
+romantik er en følelse; lune er en følelse	overtro er en følelse	false	feelings
+sympati er en følelse; tryghed er en følelse	spøgelse er en følelse	false	feelings
+uvilje er en følelse; lysten er en følelse	betragtning er en følelse	false	feelings
+ligegyldighed er en følelse; kval er en følelse	tankestrøm er en følelse	false	feelings
+romantik er en følelse; uvilje er en følelse	forventning er en følelse	false	feelings
+fornemmelse er en følelse; jalousi er en følelse	modstander er en følelse	false	feelings
+swing er en følelse; håb er en følelse	indfald er en følelse	false	feelings
+skuffelse er en følelse; værdighed er en følelse	undren er en følelse	false	feelings
+gnist er en følelse; skam er en følelse	overbygning er en følelse	false	feelings
+skuffelse er en følelse; medlidenhed er en følelse	idé er en følelse	false	feelings
+skør er en følelse; tosset er en følelse	myte er en følelse	false	feelings
+overraskelse er en følelse; taktfølelse er en følelse	fantasi er en følelse	false	feelings
+bevægelse er en følelse; lede er en følelse	anfald er en følelse	true	feelings
+angst er en følelse; medfølelse er en følelse	skuffelse er en følelse	true	feelings
+taknemmelighed er en følelse; håb er en følelse	skør er en følelse	true	feelings
+trang er en følelse; taknemmelighed er en følelse	flod er en følelse	true	feelings
+stolthed er en følelse; sorg er en følelse	utak er en følelse	true	feelings
+pligt er en følelse; overraskelse er en følelse	ringeagt er en følelse	true	feelings
+frygt er en følelse; overraskelse er en følelse	kick er en følelse	true	feelings
+aggression er en følelse; lidenskab er en følelse	lettelse er en følelse	true	feelings
+skør er en følelse; lyn er en følelse	respekt er en følelse	true	feelings
+streng er en følelse; afstand er en følelse	passion er en følelse	true	feelings
+savn er en følelse; ild er en følelse	behag er en følelse	true	feelings
+ringeagt er en følelse; afsky er en følelse	lune er en følelse	true	feelings
+lettelse er en følelse; fornemmelse er en følelse	stik er en følelse	true	feelings
+savn er en følelse; forargelse er en følelse	pligt er en følelse	true	feelings
+tosset er en følelse; uvilje er en følelse	skam er en følelse	true	feelings
+samvittighed er en følelse; lidenskab er en følelse	skyld er en følelse	true	feelings
+forbavselse er en følelse; afstand er en følelse	vred er en følelse	true	feelings
+streng er en følelse; bevægelse er en følelse	taknemmelighed er en følelse	true	feelings
+stød er en følelse; afhængighed er en følelse	ild er en følelse	true	feelings
+sympati er en følelse; afhængighed er en følelse	værdighed er en følelse	true	feelings
