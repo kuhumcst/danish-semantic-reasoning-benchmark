@@ -13,7 +13,10 @@ scale of relevance for the target word:
 This dataset was developed as part of the Danish Reasoning Benchmark.
 To cite, please use following citation:
 
-[INDSÆT ARTIKEL...]
+Bolette Pedersen, Nathalie Sørensen, Sussi Olsen, Sanni Nimb, and Simon Gray. 2024. 
+[Towards a Danish Semantic Reasoning Benchmark - Compiled from Lexical-Semantic Resources for Assessing Selected Language Understanding Capabilities of Large Language Models](https://aclanthology.org/2024.lrec-main.1421/).
+In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*, pages 16353–16363, Torino, Italia. ELRA and ICCL.
+
 
 All data is based on the Danish Thesaurus. Read more here:
 https://euralex.org/wp-content/themes/euralex/proceedings/Euralex%202014/euralex_2014_012_p_191.pdf
