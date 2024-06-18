@@ -18,7 +18,6 @@ The datasets focus on
 
 We have used ChatGPT to assess to which degree our datasets challenge the ceiling performance of state-of-the-art LLMs, average performance being relatively high with an average accuracy of 0.6 on ChatGPT 3.5 turbo and 0.8 on ChatGPT 4.0.
 
-We hope to extend the datasets in the near future depending on funding. 
 
 
 ## Credit and reference
@@ -28,7 +27,7 @@ In *Proceedings of the 2024 Joint International Conference on Computational Ling
 
 
 
-[Center for Language Technology, Department of Nordic Studies and Linguistics, University of Copenhagen](https://cst.ku.dk/english/)
+[Centre for Language Technology, Department of Nordic Studies and Linguistics, University of Copenhagen](https://cst.ku.dk/english/)
 
 and
 
