@@ -38,7 +38,8 @@ In a later version, we will include frames that denote events that are less stra
 
 
 # License
-[CC BY-ND](https://creativecommons.org/licenses/by-nd/4.0/)
+
+Danish FrameNet 1.0 License, https://github.com/dsldk/dansk-frame-net/blob/master/LICENSE
 
 Credit: [Centre for Language Technology (CST), University of Copenhagen](https://cst.ku.dk/english/)
 
