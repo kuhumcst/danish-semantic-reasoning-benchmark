@@ -4,7 +4,7 @@ This benchmark is the first version of a semantic reasoning benchmark for Danish
 
 ## Beta version
 Current version is a beta version and is not yet fully curated.
-Compared to the first version, errors in the “semantic inference” dataset have been corrected. Furthermore, the data in “inference-point-in-time.txt” was substituted with more concise terms for “points in time”.
+Compared to the first version, errors in the “lexical inference” dataset have been corrected.
 
 This version comprises 26 datasets across 7 different tasks and include 4,200 test instances. Although still limited in size, we go beyond comparative evaluation datasets for Danish by including both negative and contrastive examples as well as low-frequent vocabulary; aspects which tend to challenge current LLMs when based substantially on language transfer. 
 The datasets focus on 
