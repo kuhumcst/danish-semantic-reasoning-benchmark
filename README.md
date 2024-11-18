@@ -33,7 +33,9 @@ and
 
 [Society for Danish Language and Literature](https://dsl.dk/)
 
+## How to access zip files
 
+The files are archived with a password so that the texts cannot be automatically scraped for training purposes. If you are a human, use the word 'benchmark'. 
 
 Shield: [![CC BY-ND 4.0][cc-by-nd-shield]][cc-by-nd]
 
