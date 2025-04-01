@@ -7,11 +7,17 @@ The entailment datasets consist of a list of statements, where for each line is 
 - Finally, information is given regarding which frame (from Berkely FrameNet) was used for the act/event. 
 
 The task intended for the language model is to answer whether the second statement is true or false. For that, it is necessary to have knowledge about what is entailed by the act or event of the first statement. 
-This dataset was developed as part of the Danish Reasoning Benchmark. To cite, please use following citation:
-Bolette Pedersen, Nathalie Sørensen, Sussi Olsen, Sanni Nimb, and Simon Gray. 2024. Towards a Danish Semantic Reasoning Benchmark - Compiled from Lexical-Semantic Resources for Assessing Selected Language Understanding Capabilities of Large Language Models. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 16353–16363, Torino, Italia. ELRA and ICCL
+This dataset was developed as part of the Danish Reasoning Benchmark. 
 
-Data is derived from the Danish FrameNet Lexicon. To cite, please use the following citation:
-Sanni Nimb. 2018. The Danish FrameNet Lexicon: method and lexical coverage. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018), Paris, France. European Language Resources Association (ELRA).
+To cite, please use following citation:
+Bolette Pedersen, Nathalie Sørensen, Sussi Olsen, Sanni Nimb, and Simon Gray. 2024. 
+[Towards a Danish Semantic Reasoning Benchmark - Compiled from Lexical-Semantic Resources for Assessing Selected Language Understanding Capabilities of Large Language Models](https://aclanthology.org/2024.lrec-main.1421/).
+In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*, pages 16353–16363, Torino, Italia. ELRA and ICCL.
+
+
+Data is derived from the Danish FrameNet Lexicon. To cite, please use the following citation:  
+Sanni Nimb. 2018. [The Danish FrameNet Lexicon: method and lexical coverage](http://lrec-conf.org/workshops/lrec2018/W5/pdf/3_W5.pdf). In *Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)*
+, Paris, France. European Language Resources Association (ELRA).
 
 ## Content
 
@@ -28,5 +34,12 @@ TELLING: Peter did not tell Mary about the engagement. Mary does not know about 
 In the first versions of the dataset, we focused on frames that refer to causative events on more or less concrete items, where the result of the event is relatively unambiguous. Version 3 includes frames that refer to activities and accomplishments.
 
 In a later version, we will include frames that denote events that are less straight-forward, e.g. mental or abstract frames, where the results will be more ambiguous. 
+
+# License
+[CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+Credit: [Centre for Language Technology (CST), University of Copenhagen](https://cst.ku.dk/english/)
+
+Contact: Bolette Sandford Pedersen (bspedersen @ hum.ku.dk)
 
 
