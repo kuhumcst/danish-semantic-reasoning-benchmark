@@ -6,14 +6,14 @@ This benchmark is the first version of a semantic reasoning benchmark for Danish
 Current version is a beta version and is not yet fully curated.
 Compared to the first version, errors in the “lexical inference” dataset have been corrected.
 
-This version comprises 26 datasets across 7 different tasks and include 4,200 test instances. Although still limited in size, we go beyond comparative evaluation datasets for Danish by including both negative and contrastive examples as well as low-frequent vocabulary; aspects which tend to challenge current LLMs when based substantially on language transfer. 
+This version comprises 26 datasets across 6 different tasks and include 4,200 test instances. Although still limited in size, we go beyond comparative evaluation datasets for Danish by including both negative and contrastive examples as well as low-frequent vocabulary; aspects which tend to challenge current LLMs when based substantially on language transfer. 
 The datasets focus on 
 
  - semantic inference
  - entailment
  - similarity
- - relatedness, 
- - disambiguation of words in context. 
+ - synonymy
+ - disambiguation of words in context (DanWic)
  - sentiment
 
 We have used ChatGPT to assess to which degree our datasets challenge the ceiling performance of state-of-the-art LLMs, average performance being relatively high with an average accuracy of 0.6 on ChatGPT 3.5 turbo and 0.8 on ChatGPT 4.0.
