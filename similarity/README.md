@@ -1,4 +1,4 @@
-# Danish Similarity Word Intrusion Datasets
+# Danish Similarity Outlier Detection / Word Intrusion Datasets
 
 The word intrusion datasets consists of a list of words where:
 - Five words belong to the core group and are semantically similar to each other (e.g., synonyms, near synonyms or other semantic overlap)
