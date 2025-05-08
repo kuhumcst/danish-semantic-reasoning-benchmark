@@ -34,6 +34,7 @@ TELLING: Peter did not tell Mary about the engagement. Mary does not know about 
 In the first versions of the dataset, we focused on frames that refer to causative events on more or less concrete items, where the result of the event is relatively unambiguous. Version 3 includes frames that refer to activities and accomplishments.
 
 In a later version, we will include frames that denote events that are less straight-forward, e.g. mental or abstract frames, where the results will be more ambiguous.
+
 There are currently 328 instances in the third version.
 
  
