@@ -36,6 +36,8 @@ For instance, for the telic role (function) with the ontological type Instrument
 
 We negate a selected number of utterances and try to contrast with examples from different parts of the ontology, keeping, however, always track of the truth-value. 
 
+There are currently 1020 instances in the third version.
+
 # License
 [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
